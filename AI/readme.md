@@ -1,0 +1,22 @@
+# AI
+
+- Code
+  - [Blackbox AI](https://www.blackbox.ai/)
+  - [Codeium](https://codeium.com/profile)
+  - [GitFluence](https://www.gitfluence.com/)
+  - [POE](https://poe.com/ChatGPT)
+  - [Replit](https://replit.com/)
+  - [Phind](https://www.phind.com/search?home=true)
+  - [Safurai](https://www.safurai.com/)
+- Essay
+  - [GPTZero](https://gptzero.me/)
+  - [Grammarly](https://www.grammarly.com/)
+  - [Undetectable AI](https://undetectable.ai/)
+  - [Write My Essay](https://writemyessays.ai/)
+- Find AI
+  - [OpenFuture](https://openfuture.ai/vi)
+- General
+  - [ChatGPT](https://chat.openai.com/)
+  - [Gemini](https://gemini.google.com/app)
+- PCB
+  - [Flux](https://www.flux.ai/p)

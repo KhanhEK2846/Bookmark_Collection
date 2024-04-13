@@ -1,0 +1,16 @@
+# API
+
+- [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
+- [API-Football](https://www.api-football.com/https://www.api-football.com/)
+- [Commerce.js](https://commercejs.com/)
+- [Free APIs](https://free-apis.github.io/#/)
+- [FreecurrencyAPI](https://freecurrencyapi.com/)
+- [JSONPlaceholder](https://www.jsonplaceholder.org/)
+- [mockAPI](https://mockapi.io/)
+- [OpenWeatherMap](https://openweathermap.org/)
+- [PokeAPI](https://pokeapi.co/)
+- [REST COUNTRIES](https://restcountries.com/)
+- [Sample APIs](https://sampleapis.com/)
+- [TMDB](https://www.themoviedb.org/)
+- [Translation API](https://localazy.com/features/translation-api?utm_term=translate%20api&utm_campaign=COLD_PRODUCTS&utm_source=adwords&utm_medium=ppc&gad_source=1)
+- [ZenQuotes](https://zenquotes.io/)

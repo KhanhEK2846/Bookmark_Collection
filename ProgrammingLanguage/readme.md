@@ -19,6 +19,7 @@
   - [DevDocs API Documentation](https://devdocs.io/)
   - [GeeksforGeeks](https://www.geeksforgeeks.org/)
   - [Hack Design](https://hackdesign.org/)
+  - [JavaPoint](https://www.javatpoint.com/)
   - [learn go](https://www.learn-golang.org/)
   - [Learn Perl](https://learn.perl.org/)
   - [Pkl](https://pkl-lang.org/blog/introducing-pkl.html)

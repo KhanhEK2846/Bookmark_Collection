@@ -21,5 +21,6 @@
 - Study
   - [Elements of AI](https://elementsofai.com/s)
   - [Kaggle](https://www.kaggle.com/)
+  - [playground.digital.auto](https://digitalauto.netlify.app/)
 - Training
   - [Teachable Machine](https://teachablemachine.withgoogle.com/)

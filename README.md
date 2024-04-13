@@ -2,12 +2,13 @@
 
 ## Developer
 
+- [AI](./AI/readme.md)
+- [API](./API/readme.md)
 - [App Developer](./AppDeveloper/readme.md)
-- Cheatsheets
-  - [Algorithms and Data Structures Cheatsheet](https://algs4.cs.princeton.edu/cheatsheet/)
-  - [QuickRef.ME](https://quickref.me/)
+- [Cheatsheets](./Cheatsheets/readme.md)
 - [Course](./Course/readme.md)
 - [Embedded](./Embedded/readme.md)
+- [Forum](./Forum/readme.md)
 - [Fullstack](./Fullstack/readme.md)
 - [Machine Learning](./MachineLearning/readme.md)
 - [Programming Language](./ProgrammingLanguage/readme.md)
