@@ -4,7 +4,6 @@
   - [Blackbox AI](https://www.blackbox.ai/)
   - [Codeium](https://codeium.com/profile)
   - [GitFluence](https://www.gitfluence.com/)
-  - [POE](https://poe.com/ChatGPT)
   - [Replit](https://replit.com/)
   - [Phind](https://www.phind.com/search?home=true)
   - [Safurai](https://www.safurai.com/)
@@ -18,5 +17,15 @@
 - General
   - [ChatGPT](https://chat.openai.com/)
   - [Gemini](https://gemini.google.com/app)
+  - [Perplexity](https://www.perplexity.ai/)
+  - [POE](https://poe.com/ChatGPT)
+  - [SciSpace](https://typeset.io/)
+- Handwriting
+  - [calligrapher](https://www.calligrapher.ai/)
+- Other
+  - [Flot](https://flot.ai/)
+  - [GitMind](https://gitmind.com/)
 - PCB
   - [Flux](https://www.flux.ai/p)
+- Summarize
+  - [Sumz](https://sumz-ai.hugo-ribaud.com/)
