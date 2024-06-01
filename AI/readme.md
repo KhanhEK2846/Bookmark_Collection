@@ -4,6 +4,7 @@
   - [Blackbox AI](https://www.blackbox.ai/)
   - [Codeium](https://codeium.com/profile)
   - [GitFluence](https://www.gitfluence.com/)
+  - [OpenUI.fly](https://openui.fly.dev/ai/new)
   - [Replit](https://replit.com/)
   - [Phind](https://www.phind.com/search?home=true)
   - [Safurai](https://www.safurai.com/)
@@ -16,6 +17,7 @@
   - [OpenFuture](https://openfuture.ai/vi)
 - General
   - [ChatGPT](https://chat.openai.com/)
+  - [DuckDuckGo](https://duckduckgo.com/)
   - [Gemini](https://gemini.google.com/app)
   - [Perplexity](https://www.perplexity.ai/)
   - [POE](https://poe.com/ChatGPT)

@@ -2,6 +2,7 @@
 
 - [3D Bay](https://3dbay.io/)
 - [Animista](https://animista.net/)
+- [Bennett Feely](https://bennettfeely.com/)
 - [BGJar](https://bgjar.com/)
 - [Blobmaker](https://www.blobmaker.app/)
 - [Browse Fonts](https://fonts.google.com/)

@@ -7,6 +7,8 @@
 - [DataCamp Learn](https://app.datacamp.com/)
 - [Digital Ocean](https://www.digitalocean.com/)
 - [freeCodeCamp](https://www.freecodecamp.org/news/)
+- [Frontend Dev](https://www.frontendpro.dev/)
+- [Frontend Mentor](https://www.frontendmentor.io/)
 - [GeeksforGeeks Courses](https://www.geeksforgeeks.org/courses)
 - [Hack The Box](https://app.hackthebox.com/home)
 - [HackerRank](https://www.hackerrank.com/dashboard)
