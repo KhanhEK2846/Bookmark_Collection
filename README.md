@@ -10,6 +10,8 @@
 - [Embedded](./Embedded/readme.md)
 - [Forum](./Forum/readme.md)
 - [Fullstack](./Fullstack/readme.md)
+- [Language](./Language/readme.md)
 - [Machine Learning](./MachineLearning/readme.md)
 - [Programming Language](./ProgrammingLanguage/readme.md)
+- [Services](./Services/readme.md)
 - [Tool](./Tool/readme.md)
