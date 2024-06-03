@@ -1,5 +1,7 @@
 # Course
 
+---
+
 - [Anaconda Cloud](https://anaconda.cloud/)
 - [Codédex](https://www.codedex.io/)
 - [Coursera](https://www.coursera.org/)
@@ -20,3 +22,7 @@
 - [Udemy](https://www.udemy.com/)
 - [Unity Learn](https://learn.unity.com/)
 - [uxcel](https://app.uxcel.com/home)
+
+---
+
+[Return](./../README.md)

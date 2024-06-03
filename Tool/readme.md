@@ -1,5 +1,7 @@
 # Tool
 
+---
+
 - All Tools
   - [10015 Tools](https://10015.io/)
   - [True Devtools](https://truedevtools.com/)
@@ -10,6 +12,8 @@
   - [Tinkercad](https://www.tinkercad.com/)
 - Download
   - [You Tube](./Download/YouTube.md)
+- Encode
+  - [CryptoJS](https://artjomb.github.io/cryptojs-extension/)
 - Powerpoint
   - [Gamma](https://gamma.app/)
   - [Panel - Genial.ly](https://app.genial.ly/templates/home)
@@ -21,3 +25,7 @@
   - [Carbon Dating The Web](https://carbondate.cs.odu.edu/)
   - [Epoch Converter](https://www.epochconverter.com/)
   - [Internet Archive: Wayback Machine](https://archive.org/web/)
+
+---
+
+[Return](./../README.md)

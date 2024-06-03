@@ -1,5 +1,7 @@
 # Machine Learning
 
+---
+
 - Datasets
 
   - [BFI](https://www.bfi.org.uk/industry-data-insights)
@@ -24,3 +26,7 @@
   - [playground.digital.auto](https://digitalauto.netlify.app/)
 - Training
   - [Teachable Machine](https://teachablemachine.withgoogle.com/)
+
+---
+
+[Return](./../README.md)

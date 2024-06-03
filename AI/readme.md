@@ -1,5 +1,7 @@
 # AI
 
+---
+
 - Code
   - [Blackbox AI](https://www.blackbox.ai/)
   - [Codeium](https://codeium.com/profile)
@@ -31,3 +33,7 @@
   - [Flux](https://www.flux.ai/p)
 - Summarize
   - [Sumz](https://sumz-ai.hugo-ribaud.com/)
+
+---
+
+[Return](./../README.md)

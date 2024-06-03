@@ -1,5 +1,7 @@
 # API
 
+---
+
 - [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
 - [API-Football](https://www.api-football.com/https://www.api-football.com/)
 - [Commerce.js](https://commercejs.com/)
@@ -20,3 +22,7 @@
 - [TMDB](https://developer.themoviedb.org/docs/getting-started)
 - [Translation API](https://localazy.com/features/translation-api?utm_term=translate%20api&utm_campaign=COLD_PRODUCTS&utm_source=adwords&utm_medium=ppc&gad_source=1)
 - [ZenQuotes](https://zenquotes.io/)
+
+---
+
+[Return](./../README.md)
