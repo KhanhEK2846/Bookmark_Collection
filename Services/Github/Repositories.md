@@ -1,7 +1,12 @@
 # Repositories
 
 ---
-
+- C#
+  - [ASP.NET BOILERPLATE](https://github.com/aspnetboilerplate/aspnetboilerplate)
+  - [C# LANGUAGE DESIGN](https://github.com/dotnet/csharplang)
+  - [CLEAN-CODE-DOTNET](https://github.com/thangchung/clean-code-dotnet)
+  - [PRACTICAL-ASPNETCORE](https://github.com/dodyg/practical-aspnetcore)
+  - [THE ALGORITHMS - C#] (https://github.com/dodyg/practical-aspnetcore)
 - Security
   - [ALL IN ONE HACKING TOOL FOR HACKERS](https://github.com/Z4nzu/hackingtool)
   - [AWESOME HACKING](https://github.com/Hack-with-Github/Awesome-Hacking)
