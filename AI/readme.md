@@ -22,6 +22,7 @@
   - [DuckDuckGo](https://duckduckgo.com/)
   - [Gemini](https://gemini.google.com/app)
   - [Perplexity](https://www.perplexity.ai/)
+  - [Phind](https://www.phind.com/)
   - [POE](https://poe.com/ChatGPT)
   - [SciSpace](https://typeset.io/)
 - Handwriting
