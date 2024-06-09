@@ -2,9 +2,10 @@
 
 ---
 
-- English
-  - [Dictionary](./English/Dictionary.md)
-  - [Mock Test](./English/MockTest.md)
+### English
+
+- [Dictionary](./English/Dictionary.md)
+- [Mock Test](./English/MockTest.md)
 
 ---
 

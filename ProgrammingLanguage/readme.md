@@ -2,33 +2,41 @@
 
 ---
 
-- Compiler
-  - [CodePen](https://codepen.io/pen/)
-  - [CodeSandbox](https://codesandbox.io/)
-  - [DartPad](https://dartpad.dev/)
-  - [GDB online Debugger](https://www.onlinegdb.com/)
-  - [Google Colab](https://colab.google/)
-  - [Ideone](https://ideone.com/)
-  - [Javascript Playground](https://playcode.io/)
-  - [JSFiddle](https://jsfiddle.net/)
-  - [StackBlitz](https://stackblitz.com/)
-  - [tutorialspoint](https://www.tutorialspoint.com/codingground.htm)
-- Code Converter
-  - [Compiler Explorer](https://godbolt.org/)
-  - [Onelang.io](https://ide.onelang.io/)
-- [Github](./../Services/Github/Repositories/ProgrammingLanguage.md)
-- Game
-  - [CSS](./Game/CSS.md)
-- Study
-  - [CSS-Tricks](https://css-tricks.com/)
-  - [DevDocs API Documentation](https://devdocs.io/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/)
-  - [Hack Design](https://hackdesign.org/)
-  - [JavaPoint](https://www.javatpoint.com/)
-  - [learn go](https://www.learn-golang.org/)
-  - [Learn Perl](https://learn.perl.org/)
-  - [Pkl](https://pkl-lang.org/blog/introducing-pkl.html)
-  - [W3Schools](https://www.w3schools.com/)
+### Compiler
+
+- [CodePen](https://codepen.io/pen/)
+- [CodeSandbox](https://codesandbox.io/)
+- [DartPad](https://dartpad.dev/)
+- [GDB online Debugger](https://www.onlinegdb.com/)
+- [Google Colab](https://colab.google/)
+- [Ideone](https://ideone.com/)
+- [Javascript Playground](https://playcode.io/)
+- [JSFiddle](https://jsfiddle.net/)
+- [StackBlitz](https://stackblitz.com/)
+- [tutorialspoint](https://www.tutorialspoint.com/codingground.htm)
+
+### Code Converter
+
+- [Compiler Explorer](https://godbolt.org/)
+- [Onelang.io](https://ide.onelang.io/)
+
+### [Github](./../Services/Github/Repositories/ProgrammingLanguage.md)
+
+### Game
+
+- [CSS](./Game/CSS.md)
+
+### Study
+
+- [CSS-Tricks](https://css-tricks.com/)
+- [DevDocs API Documentation](https://devdocs.io/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [Hack Design](https://hackdesign.org/)
+- [JavaPoint](https://www.javatpoint.com/)
+- [learn go](https://www.learn-golang.org/)
+- [Learn Perl](https://learn.perl.org/)
+- [Pkl](https://pkl-lang.org/blog/introducing-pkl.html)
+- [W3Schools](https://www.w3schools.com/)
 
 ---
 
