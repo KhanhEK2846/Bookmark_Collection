@@ -4,6 +4,7 @@
 
 - All Tools
   - [10015 Tools](https://10015.io/)
+  - [Toools.design](https://www.toools.design/)
   - [True Devtools](https://truedevtools.com/)
 - Design
   - [Canva](https://www.canva.com/)

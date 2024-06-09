@@ -4,8 +4,10 @@
 
 - [AniJS](https://anijs.github.io/)
 - [Anime.js](https://animejs.com/)
+- [Animista](https://animista.net/)
 - [Ant Design](https://ant.design/)
 - [AOS](https://michalsnik.github.io/aos/)
+- [Browse Fonts](https://fonts.google.com/)
 - [Chakra](https://chakra-ui.com/)
 - [Intro.js](https://introjs.com/)
 - [Mantine](https://mantine.dev/)
