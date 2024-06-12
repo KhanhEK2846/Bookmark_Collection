@@ -2,7 +2,7 @@
 
 ---
 
-### Compiler
+## Compiler
 
 - [CodePen](https://codepen.io/pen/)
 - [CodeSandbox](https://codesandbox.io/)
@@ -15,18 +15,18 @@
 - [StackBlitz](https://stackblitz.com/)
 - [tutorialspoint](https://www.tutorialspoint.com/codingground.htm)
 
-### Code Converter
+## Code Converter
 
 - [Compiler Explorer](https://godbolt.org/)
 - [Onelang.io](https://ide.onelang.io/)
 
-### [Github](./../Services/Github/Repositories/ProgrammingLanguage.md)
+## [Github](./../Services/Github/Repositories/ProgrammingLanguage.md)
 
-### Game
+## Game
 
 - [CSS](./Game/CSS.md)
 
-### Study
+## Study
 
 - [CSS-Tricks](https://css-tricks.com/)
 - [DevDocs API Documentation](https://devdocs.io/)

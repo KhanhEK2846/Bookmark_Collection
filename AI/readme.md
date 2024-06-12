@@ -2,7 +2,7 @@
 
 ---
 
-### Code
+## Code
 
 - [Blackbox AI](https://www.blackbox.ai/)
 - [Codeium](https://codeium.com/profile)
@@ -12,18 +12,18 @@
 - [Phind](https://www.phind.com/search?home=true)
 - [Safurai](https://www.safurai.com/)
 
-### Essay
+## Essay
 
 - [GPTZero](https://gptzero.me/)
 - [Grammarly](https://www.grammarly.com/)
 - [Undetectable AI](https://undetectable.ai/)
 - [Write My Essay](https://writemyessays.ai/)
 
-### Find AI
+## Find AI
 
 - [OpenFuture](https://openfuture.ai/vi)
 
-### General
+## General
 
 - [ChatGPT](https://chat.openai.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
@@ -33,20 +33,20 @@
 - [POE](https://poe.com/ChatGPT)
 - [SciSpace](https://typeset.io/)
 
-### Handwriting
+## Handwriting
 
 - [calligrapher](https://www.calligrapher.ai/)
 
-### Other
+## Other
 
 - [Flot](https://flot.ai/)
 - [GitMind](https://gitmind.com/)
 
-### PCB
+## PCB
 
 - [Flux](https://www.flux.ai/p)
 
-### Summarize
+## Summarize
 
 - [Sumz](https://sumz-ai.hugo-ribaud.com/)
 

@@ -2,7 +2,7 @@
 
 ---
 
-### Datasets
+## Datasets
 
 - [BFI](https://www.bfi.org.uk/industry-data-insights)
 - [CERN](https://opendata.cern.ch/)
@@ -18,17 +18,17 @@
 - [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/datasets)
 - [V7](https://www.v7labs.com/open-datasets)
 
-### Label
+## Label
 
 - [CVAT](https://www.cvat.ai/)
 
-### Study
+## Study
 
 - [Elements of AI](https://elementsofai.com/s)
 - [Kaggle](https://www.kaggle.com/)
 - [playground.digital.auto](https://digitalauto.netlify.app/)
 
-### Training
+## Training
 
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
 

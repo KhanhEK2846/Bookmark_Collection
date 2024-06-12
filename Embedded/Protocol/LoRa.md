@@ -2,11 +2,11 @@
 
 ---
 
-### Group
+## Group
 
 - [Easy LoRaWAN](https://www.facebook.com/groups/iotthinks/learning_content)
 
-### Tool
+## Tool
 
 - [Air time calculator](https://loratools.nl/#/airtime)
 

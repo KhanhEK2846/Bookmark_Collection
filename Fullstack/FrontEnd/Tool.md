@@ -2,17 +2,17 @@
 
 ---
 
-### Animation
+## Animation
 
 - [CSS Animation Kit](https://angrytools.com/css/animation/)
 
-### Collections
+## Collections
 
 - [GIF](./Collections/GIF.md)
 - [Icon](./Collections/Icon.md)
 - [Illustration](./Collections/Illustration.md)
 
-### Color
+## Color
 
 - [Color Hunt](https://colorhunt.co/)
 - [ColorSpace](https://mycolor.space/)
@@ -22,13 +22,13 @@
 - [Mesher by CSS Hero](https://www.csshero.org/mesher/)
 - [NEAT](https://neat.firecms.co/)
 
-### Components
+## Components
 
 - [Aceternity UI](https://ui.aceternity.com/)
 - [shadcn/ui](https://ui.shadcn.com/)
 - [Splide](https://splidejs.com/)
 
-### Generate
+## Generate
 
 - [BGJar](https://bgjar.com/)
 - [Get Waves](https://getwaves.io/)
@@ -39,7 +39,7 @@
 - [Spline](https://spline.design/)
 - [UI8.net](https://sapiens.ui8.net/6f3c3c2)
 
-### Other
+## Other
 
 - [Bennett Feely](https://bennettfeely.com/)
 - [Blobmaker](https://www.blobmaker.app/)
@@ -63,7 +63,7 @@
 - [Whirl](https://whirl.netlify.app/)
 - [Wordmark](https://wordmark.it/)
 
-### UI/UX
+## UI/UX
 
 - [Cruip](https://cruip.com/)
 - [Saas Interface](https://saasinterface.com/)

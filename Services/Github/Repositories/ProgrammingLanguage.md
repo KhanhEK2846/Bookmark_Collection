@@ -2,7 +2,7 @@
 
 ---
 
-### C#
+## C#
 
 - [ABP FRAMEWORK](https://github.com/abpframework/abp)
 - [AWESOME.NET](https://github.com/quozd/awesome-dotnet)
@@ -15,7 +15,7 @@
 - [PRACTICAL-ASPNETCORE](https://github.com/dodyg/practical-aspnetcore)
 - [THE ALGORITHMS - C#](https://github.com/dodyg/practical-aspnetcore)
 
-### C++
+## C++
 
 - [AWESOME C++](https://github.com/fffaraz/awesome-cpp)
 - [AWESOME MODERN C++ ](https://github.com/rigtorp/awesome-modern-cpp)
@@ -28,7 +28,7 @@
 - [PROJECT BASED LEARNING](https://github.com/practical-tutorials/project-based-learning)
 - [THE ALGORITHMS - C++](https://github.com/TheAlgorithms/C-Plus-Plus)
 
-### Java
+## Java
 
 - [ADVANCED-JAVA](https://github.com/doocs/advanced-java)
 - [AWESOME JAVA](https://github.com/akullpp/awesome-java)
@@ -41,7 +41,7 @@
 - [TO BE TOP JAVAER](https://github.com/hollischuang/toBeTopJavaer)
 - [THEALGORITHMS - JAVA](https://github.com/TheAlgorithms/Java)
 
-### Javascript
+## Javascript
 
 - [30 DAYS OF JAVASCRIPT](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 - [AIRBNB JAVASCRIPT STYLE GUIDE](https://github.com/airbnb/javascript)
