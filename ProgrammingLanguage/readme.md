@@ -20,7 +20,12 @@
 - [Compiler Explorer](https://godbolt.org/)
 - [Onelang.io](https://ide.onelang.io/)
 
-## [Github](./../Services/Github/Repositories/ProgrammingLanguage.md)
+## Github
+
+- [C#](./../Services/Github/Repositories/ProgrammingLanguage.md#c)
+- [C++](./../Services/Github/Repositories/ProgrammingLanguage.md#c-1)
+- [Java](./../Services/Github/Repositories/ProgrammingLanguage.md#java)
+- [Javascript](./../Services/Github/Repositories/ProgrammingLanguage.md#javascript)
 
 ## Game
 
