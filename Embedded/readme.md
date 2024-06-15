@@ -11,6 +11,11 @@
 - [Datasheet](./Hardware/Datasheet.md)
 - [Shop](./Hardware/Shop.md)
 
+## PCB
+
+- [Draw](./PCB/Draw.md)
+- [Order](./PCB/Order.md)
+
 ## Protocol
 
 - [CAN-TP](./Protocol/CANTP.md)
@@ -19,14 +24,12 @@
 
 ## Platform
 
-- [Arduino](http://arduino.vn/)
 - [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/index.html#)
 - [PlatformIO](https://platformio.org/)
 - [ThingsBoard](https://thingsboard.io/)
 
 ## Tool
 
-- [EasyEDA](https://easyeda.com/)
 - [Wokwi](https://wokwi.com/)
 
 ## Tutorial

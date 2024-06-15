@@ -37,6 +37,7 @@
 - [LOGO](https://logo.com/)
 - [Omatsuri](https://omatsuri.app/)
 - [Spline](https://spline.design/)
+- [Super design tools](https://superdesigner.co/tools)
 - [UI8.net](https://sapiens.ui8.net/6f3c3c2)
 
 ## Other

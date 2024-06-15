@@ -22,3 +22,9 @@
 ## Other
 
 - [Language](./Language/readme.md)
+
+---
+
+# About this Collections
+
+Author: [KhanhEK](https://github.com/KhanhEK2846)
