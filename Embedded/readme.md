@@ -30,6 +30,7 @@
 
 ## Tool
 
+- [Proteus](https://www.labcenter.com/)
 - [Wokwi](https://wokwi.com/)
 
 ## Tutorial

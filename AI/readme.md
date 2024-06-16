@@ -12,10 +12,18 @@
 - [Phind](https://www.phind.com/search?home=true)
 - [Safurai](https://www.safurai.com/)
 
+## Copy Writing
+
+- [Cohesive](https://cohesive.so/)
+- [QuillBot](https://quillbot.com/)
+- [Superchat](https://www.superchat.com/)
+- [WriteSonic](https://writesonic.com/)
+
 ## Essay
 
 - [GPTZero](https://gptzero.me/)
 - [Grammarly](https://www.grammarly.com/)
+- [Typli](https://typli.ai/)
 - [Undetectable AI](https://undetectable.ai/)
 - [Write My Essay](https://writemyessays.ai/)
 

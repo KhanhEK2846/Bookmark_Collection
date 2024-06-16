@@ -4,11 +4,15 @@
 
 ## Computer
 
-- [Framwork](./Computer/Framwork.md)
+- [Framwork](./Computer/Framework.md)
+
+## Game
+
+- [Framework](./Game/Framework.md)
 
 ## Phone
 
-- [Framwork](./Phone/Framwork.md)
+- [Framwork](./Phone/Framework.md)
 - [Platform](./Phone/Platform.md)
 - [Tool](./Phone/Tool.md)
 
