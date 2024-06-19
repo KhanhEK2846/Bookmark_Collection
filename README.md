@@ -27,4 +27,6 @@
 
 # About this Collections
 
-Author: [KhanhEK](https://github.com/KhanhEK2846)
+**Author**: [KhanhEK](https://github.com/KhanhEK2846)
+
+Collection of bookmark contains some urls of documents, tools, webs that may be useful for a developer

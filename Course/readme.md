@@ -20,7 +20,6 @@
 - [Medium (VPN)](https://medium.com/)
 - [TryHackMe](https://tryhackme.com/dashboard)
 - [Udemy](https://www.udemy.com/)
-- [Unity Learn](https://learn.unity.com/)
 - [uxcel](https://app.uxcel.com/home)
 
 ---

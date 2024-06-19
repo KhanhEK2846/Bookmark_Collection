@@ -11,6 +11,7 @@
 
 ## Design
 
+- [Blender](./Design/Blender.md)
 - [Canva](https://www.canva.com/)
 - [Draw.io](https://draw.io/)
 - [Figma](https://www.figma.com/)

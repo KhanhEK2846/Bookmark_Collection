@@ -8,11 +8,13 @@
 
 ## Game
 
+- [Collection](./Game/Collection.md)
 - [Framework](./Game/Framework.md)
 
 ## Phone
 
 - [Framwork](./Phone/Framework.md)
+- [IDE](./Phone/IDE.md)
 - [Platform](./Phone/Platform.md)
 - [Tool](./Phone/Tool.md)
 
