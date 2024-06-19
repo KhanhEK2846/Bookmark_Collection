@@ -9,7 +9,7 @@
 ## Hardware
 
 - [Datasheet](./Hardware/Datasheet.md)
-- [Hardware Board]()
+- [Hardware Board](./Hardware/HardwareBoard.md)
 - [Shop](./Hardware/Shop.md)
 
 ## PCB
