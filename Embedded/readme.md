@@ -9,6 +9,7 @@
 ## Hardware
 
 - [Datasheet](./Hardware/Datasheet.md)
+- [Hardware Board]()
 - [Shop](./Hardware/Shop.md)
 
 ## PCB
@@ -23,9 +24,6 @@
 - [MQTT](./Protocol/MQTT.md)
 
 ## Platform
-
-- [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/index.html#)
-- [PlatformIO](https://platformio.org/)
 - [ThingsBoard](https://thingsboard.io/)
 
 ## Tool
@@ -35,11 +33,9 @@
 
 ## Tutorial
 
-- [ARDUINO](./Tutorial/ARDUINO.md)
-- [Microcontroller](./Tutorial/Microcontroller.md)
-- [Other](./Tutorial/Other.md)
-- [PIC](./Tutorial/PIC.md)
-- [STM32](./Tutorial/STM32.md)
+
+- [peppe8o](https://peppe8o.com/)
+- [Random Nerd Tutorials](https://randomnerdtutorials.com/)
 
 ---
 
