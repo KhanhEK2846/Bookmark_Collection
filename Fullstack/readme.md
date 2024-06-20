@@ -13,6 +13,7 @@
 - [Chat Engine](https://chatengine.io/)
 - [Database | Oracle](https://www.oracle.com/database/)
 - [Firebase](https://console.firebase.google.com/u/0/)
+- [InfluxDB](https://www.influxdata.com/products/influxdb-overview/)
 - [MongoDB](https://account.mongodb.com/account/login?signedOut=true)
 - [MySQL](https://www.mysql.com/)
 - [PostgreSQL](https://www.postgresql.org/)

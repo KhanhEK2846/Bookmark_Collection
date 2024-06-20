@@ -19,6 +19,7 @@
 
 ## Protocol
 
+- [Bluetooth](./Protocol/Bluetooth.md)
 - [CAN-TP](./Protocol/CANTP.md)
 - [HTTP](./Protocol/HTTP.md)
 - [LoRa](./Protocol/LoRa.md)
