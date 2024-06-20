@@ -1,4 +1,4 @@
-# AUTOSAR
+# AUTomotive Open System ARchitecture
 
 ---
 

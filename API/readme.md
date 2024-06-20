@@ -1,4 +1,4 @@
-# API
+# Application Programming Interface
 
 ---
 
