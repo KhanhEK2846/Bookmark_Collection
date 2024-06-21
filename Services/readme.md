@@ -11,7 +11,7 @@
 - [Repositories](./Github/Repositories.md)
 - [Share](./Github/Share.md)
 
-## GitLabb
+## GitLab
 
 ---
 

@@ -1,8 +1,6 @@
-# Process
+# System on a Chips
 
 ---
-
-- [Scrum]()
 
 ---
 
