@@ -17,10 +17,6 @@
 - [Figma](https://www.figma.com/)
 - [Tinkercad](https://www.tinkercad.com/)
 
-## Download
-
-- [You Tube](./Download/YouTube.md)
-
 ## Encode
 
 - [CryptoJS](https://artjomb.github.io/cryptojs-extension/)
