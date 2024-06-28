@@ -28,9 +28,17 @@
 - [Plus AI](https://www.plusdocs.com/)
 - [Tome](https://tome.app/)
 
+## QR Code
+
+- [QR Code Master](https://qrcodemaster.top/)
+
 ## Random Generate
 
 - [Password](./RandomGenerate/Password.md)
+
+## Speed Test
+
+- [Ookia](https://www.speedtest.net/)
 
 ## Time
 
