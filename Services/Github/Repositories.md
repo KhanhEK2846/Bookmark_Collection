@@ -12,13 +12,6 @@
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
-## Programming Language
-
-- [C#](./Repositories/ProgrammingLanguage.md#c)
-- [C++](./Repositories/ProgrammingLanguage.md#c-1)
-- [Java](./Repositories/ProgrammingLanguage.md#java)
-- [Javascript](./Repositories/ProgrammingLanguage.md#javascript)
-
 ## Security
 
 - [ALL IN ONE HACKING TOOL FOR HACKERS](https://github.com/Z4nzu/hackingtool)

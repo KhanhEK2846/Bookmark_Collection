@@ -6,37 +6,30 @@
 
 - [CodePen](https://codepen.io/pen/)
 - [CodeSandbox](https://codesandbox.io/)
-- [DartPad](https://dartpad.dev/)
+- [GCC](https://gcc.gnu.org/)
 - [GDB online Debugger](https://www.onlinegdb.com/)
-- [Google Colab](https://colab.google/)
 - [Ideone](https://ideone.com/)
 - [Javascript Playground](https://playcode.io/)
 - [JSFiddle](https://jsfiddle.net/)
 - [StackBlitz](https://stackblitz.com/)
 - [tutorialspoint](https://www.tutorialspoint.com/codingground.htm)
 
-## Documents
+## Languages
 
-- [Assembly](./Documents/Assembly.md)
-- [CSS](./Documents/CSS.md)
-- [Perl](./Documents/Perl.md)
-- [Pkl](./Documents/Pkl.md)
+- [Assembly](./Languages/Assembly.md)
+- [C#](./Languages/CSharp.md)
+- [C++](./Languages/C++.md)
+- [CSS](./Languages/CSS.md)
+- [Dart](./Languages/Dart.md)
+- [Java](./Languages/Java.md)
+- [Javascript](./Languages/Javascript.md)
+- [Perl](./Languages/Perl.md)
+- [Pkl](./Languages/Pkl.md)
+- [Python](./Languages/Python.md)
 
 ## Code Converter
 
-- [Compiler Explorer](https://godbolt.org/)
 - [Onelang.io](https://ide.onelang.io/)
-
-## Github
-
-- [C#](./../Services/Github/Repositories/ProgrammingLanguage.md#c)
-- [C++](./../Services/Github/Repositories/ProgrammingLanguage.md#c-1)
-- [Java](./../Services/Github/Repositories/ProgrammingLanguage.md#java)
-- [Javascript](./../Services/Github/Repositories/ProgrammingLanguage.md#javascript)
-
-## Game
-
-- [CSS](./Game/CSS.md)
 
 ## Study
 
