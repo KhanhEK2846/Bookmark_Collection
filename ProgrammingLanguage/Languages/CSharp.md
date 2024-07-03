@@ -2,7 +2,12 @@
 
 ---
 
-## Github
+## Playlists
+
+- [BroCodez/C# tutorial for beginners 🎮](https://youtube.com/playlist?list=PLZPZq0r_RZOPNy28FDBys3GVP2LiaIyP_&si=iAy_7TiIzlTlsaEj)
+- [TheCodersCat/C# Beginner Projects](https://youtube.com/playlist?list=PLm9GTh6TKrHOW8-eWabg6ETm95ajMid3b&si=uiNRJHQIqlG3dnml)
+
+## Repositories
 
 - [ABP FRAMEWORK](https://github.com/abpframework/abp)
 - [AWESOME.NET](https://github.com/quozd/awesome-dotnet)

@@ -2,7 +2,7 @@
 
 ---
 
-## Github
+## Repositories
 
 - [AWESOME C++](https://github.com/fffaraz/awesome-cpp)
 - [AWESOME MODERN C++ ](https://github.com/rigtorp/awesome-modern-cpp)

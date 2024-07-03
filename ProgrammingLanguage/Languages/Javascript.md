@@ -2,7 +2,7 @@
 
 ---
 
-## Github
+## Repositories
 
 - [30 DAYS OF JAVASCRIPT](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 - [AIRBNB JAVASCRIPT STYLE GUIDE](https://github.com/airbnb/javascript)

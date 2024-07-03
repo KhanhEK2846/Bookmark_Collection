@@ -24,8 +24,10 @@
 - [Java](./Languages/Java.md)
 - [Javascript](./Languages/Javascript.md)
 - [Perl](./Languages/Perl.md)
+- [PHP](./Languages/PHP.md)
 - [Pkl](./Languages/Pkl.md)
 - [Python](./Languages/Python.md)
+- [TypeScript](./Languages/TypeScript.md)
 
 ## Code Converter
 
