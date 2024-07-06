@@ -15,6 +15,10 @@
 - [WHAT THE F\*CK JAVASCRIPT?](https://github.com/denysdovhan/wtfjs)
 - [YOU DON'T KNOW JS YET](https://github.com/getify/You-Dont-Know-JS)
 
+## Tutorial
+
+- [Javascript.Info](https://javascript.info/)
+
 ---
 
 [Return](./../readme.md)

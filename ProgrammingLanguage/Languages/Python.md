@@ -10,6 +10,10 @@
 
 - [Python](https://www.python.org/doc/)
 
+## Tutorial
+
+- [learnpython](https://www.learnpython.org/)
+
 ---
 
 [Return](./../readme.md)

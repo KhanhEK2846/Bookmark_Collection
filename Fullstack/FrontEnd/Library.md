@@ -26,7 +26,7 @@
 - [matcha.css](https://matcha.mizu.sh/)
 - [MUI](https://mui.com/)
 - [NextUI](https://nextui.org/)
-- [React](https://react.dev/)
+- [React](./Other/React.md)
 - [Sailboat UI](https://sailboatui.com/)
 - [Three.js](https://threejs.org/)
 - [Vite](https://vitejs.dev/guide/)

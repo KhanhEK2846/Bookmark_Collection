@@ -28,13 +28,9 @@
 ## Learn
 
 - [CryptoZombies](https://cryptozombies.io/)
-- [HTML.COM](https://html.com/)
-- [Javascript.Info](https://javascript.info/)
 - [LearnWeb3](https://learnweb3.io/)
-- [PHP: The Right Way](https://phptherightway.com/)
 - [Rapid API Learn](https://rapidapi.com/learn)
-- [ReactPlay](https://reactplay.io/)
-- [web.dev](https://web.dev/?hl=vi)
+- [web.dev](https://web.dev/learn)
 
 ## Tool
 

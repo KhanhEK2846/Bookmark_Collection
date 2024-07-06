@@ -21,12 +21,15 @@
 - [C++](./Languages/C++.md)
 - [CSS](./Languages/CSS.md)
 - [Dart](./Languages/Dart.md)
+- [GO](./Languages/GO.md)
+- [HTML](./Languages/HTML.md)
 - [Java](./Languages/Java.md)
 - [Javascript](./Languages/Javascript.md)
 - [Perl](./Languages/Perl.md)
 - [PHP](./Languages/PHP.md)
 - [Pkl](./Languages/Pkl.md)
 - [Python](./Languages/Python.md)
+- [Rust](./Languages/Rust.md)
 - [TypeScript](./Languages/TypeScript.md)
 
 ## Code Converter
