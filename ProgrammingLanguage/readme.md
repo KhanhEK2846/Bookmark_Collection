@@ -2,6 +2,10 @@
 
 ---
 
+## Code Converter
+
+- [Onelang.io](https://ide.onelang.io/)
+
 ## Compiler
 
 - [CodePen](https://codepen.io/pen/)
@@ -32,10 +36,6 @@
 - [Rust](./Languages/Rust.md)
 - [TypeScript](./Languages/TypeScript.md)
 
-## Code Converter
-
-- [Onelang.io](https://ide.onelang.io/)
-
 ## Study
 
 - [DevDocs API Documentation](https://devdocs.io/)
@@ -44,6 +44,12 @@
 - [JavaPoint](https://www.javatpoint.com/)
 - [learn go](https://www.learn-golang.org/)
 - [W3Schools](https://www.w3schools.com/)
+
+## Text Editor
+
+- [The Eclipse Theia IDE](https://theia-ide.org/)
+- [VIM](https://www.vim.org/)
+- [VS code](https://code.visualstudio.com/docs)
 
 ---
 

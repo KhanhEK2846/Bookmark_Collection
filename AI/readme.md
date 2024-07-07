@@ -2,6 +2,11 @@
 
 ---
 
+## All AI
+
+- [Aitooldaily](https://aitooldaily.co/all-ai-tools/)
+- [OpenFuture](https://openfuture.ai/)
+
 ## Code
 
 - [Blackbox AI](https://www.blackbox.ai/)
@@ -26,10 +31,6 @@
 - [Typli](https://typli.ai/)
 - [Undetectable AI](https://undetectable.ai/)
 - [Write My Essay](https://writemyessays.ai/)
-
-## Find AI
-
-- [OpenFuture](https://openfuture.ai/vi)
 
 ## General
 
@@ -56,7 +57,12 @@
 
 ## Summarize
 
+- [NoteGPT](https://notegpt.io/)
 - [Sumz](https://sumz-ai.hugo-ribaud.com/)
+
+## Video Generation
+
+- [Dream Machine](https://lumalabs.ai/dream-machine)
 
 ---
 

@@ -6,6 +6,7 @@
 
 - [AI](./AI/readme.md)
 - [API](./API/readme.md)
+- [Algorithms](./Algorithms/readme.md)
 - [App Developer](./AppDeveloper/readme.md)
 - [Cheatsheets](./Cheatsheets/readme.md)
 - [Course](./Course/readme.md)
@@ -15,6 +16,7 @@
 - [IC Design](./ICDesign/readme.md)
 - [Internet](./Internet/readme.md)
 - [Machine Learning](./MachineLearning/readme.md)
+- [OS](./OS/readme.md)
 - [Principles & Conventions](./Principles_Conventions/readme.md)
 - [Programming Language](./ProgrammingLanguage/readme.md)
 - [Services](./Services/readme.md)
