@@ -35,9 +35,11 @@
 - [Python](./Languages/Python.md)
 - [Rust](./Languages/Rust.md)
 - [TypeScript](./Languages/TypeScript.md)
+- [Zig](./Languages/Zig.md)
 
 ## Study
 
+- [Clean-Code](https://clean-code.io/)
 - [DevDocs API Documentation](https://devdocs.io/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [Hack Design](https://hackdesign.org/)
@@ -45,11 +47,12 @@
 - [learn go](https://www.learn-golang.org/)
 - [W3Schools](https://www.w3schools.com/)
 
-## Text Editor
+## Text Editor / IDE
 
 - [The Eclipse Theia IDE](https://theia-ide.org/)
 - [VIM](https://www.vim.org/)
 - [VS code](https://code.visualstudio.com/docs)
+- [ZED](https://zed.dev/)
 
 ---
 

@@ -8,6 +8,7 @@
 
 ## Password Cracking
 
+- [Hashcat](https://en.iguru.gr/odigos-hashcat-gia-archarious/)
 - [John the Ripper](https://www.openwall.com/john/)
 
 ## Remote Login

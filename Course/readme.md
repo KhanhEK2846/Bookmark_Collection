@@ -12,11 +12,8 @@
 - [Frontend Dev](https://www.frontendpro.dev/)
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [GeeksforGeeks Courses](https://www.geeksforgeeks.org/courses)
-- [Hack The Box](https://app.hackthebox.com/home)
-- [hacksplaining](https://www.hacksplaining.com/lessons)
 - [MDN](https://developer.mozilla.org/en-US/)
 - [Medium (VPN)](https://medium.com/)
-- [TryHackMe](https://tryhackme.com/dashboard)
 - [Udemy](https://www.udemy.com/)
 - [uxcel](https://app.uxcel.com/home)
 
