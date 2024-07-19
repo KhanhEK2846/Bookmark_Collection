@@ -13,6 +13,10 @@
 - [fullstack-interviews](https://github.com/Ren0503/fullstack-interviews)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
+## Lesson
+
+- [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
 ## Security
 
 - [ALL IN ONE HACKING TOOL FOR HACKERS](https://github.com/Z4nzu/hackingtool)
