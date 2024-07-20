@@ -15,6 +15,7 @@
 - [Ideone](https://ideone.com/)
 - [Javascript Playground](https://playcode.io/)
 - [JSFiddle](https://jsfiddle.net/)
+- [LLVM](https://llvm.org/)
 - [StackBlitz](https://stackblitz.com/)
 - [tutorialspoint](https://www.tutorialspoint.com/codingground.htm)
 
@@ -37,6 +38,10 @@
 - [TypeScript](./Languages/TypeScript.md)
 - [Zig](./Languages/Zig.md)
 
+## Interpreter
+
+- [Book](./Interpreter/Book.md)
+
 ## Study
 
 - [Clean-Code](https://clean-code.io/)
@@ -49,8 +54,9 @@
 
 ## Text Editor / IDE
 
+- [Neovim](./Editor/Neovim.md)
 - [The Eclipse Theia IDE](https://theia-ide.org/)
-- [VIM](https://www.vim.org/)
+- [VIM](./Editor/VIM.md)
 - [VS code](https://code.visualstudio.com/docs)
 - [ZED](https://zed.dev/)
 

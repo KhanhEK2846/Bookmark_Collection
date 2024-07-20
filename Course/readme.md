@@ -4,7 +4,7 @@
 
 - [Anaconda Cloud](https://anaconda.cloud/)
 - [Codédex](https://www.codedex.io/)
-- [Coursera](https://www.coursera.org/)
+- [Coursera](./Course/Coursera.md)
 - [Daily Coding Problem](https://www.dailycodingproblem.com/)
 - [DataCamp Learn](https://app.datacamp.com/)
 - [Digital Ocean](https://www.digitalocean.com/)
