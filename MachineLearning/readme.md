@@ -2,6 +2,10 @@
 
 ---
 
+## Book
+
+- [ml-yearning-vi](https://github.com/mlbvn/ml-yearning-vi)
+
 ## Datasets
 
 - [BFI](https://www.bfi.org.uk/industry-data-insights)
