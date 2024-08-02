@@ -22,20 +22,24 @@
 ## Languages
 
 - [Assembly](./Languages/Assembly.md)
-- [Bash](./Languages/Bash.md)
+- [BrainF\*\*k](./Languages/Brainfuck.md)
 - [C#](./Languages/CSharp.md)
 - [C++](./Languages/C++.md)
+- [COW](./Languages/COW.md)
 - [Dart](./Languages/Dart.md)
 - [GO](./Languages/GO.md)
+- [Haskell](./Languages/Haskell.md)
+- [INTERCAL](./Languages/INTERCAL.md)
 - [Java](./Languages/Java.md)
 - [Javascript](./Languages/Javascript.md)
+- [Malbolge](./Languages/Malbolge.md)
 - [Perl](./Languages/Perl.md)
 - [Pkl](./Languages/Pkl.md)
 - [Python](./Languages/Python.md)
 - [Ruby](./Languages/Ruby.md)
 - [Rust](./Languages/Rust.md)
-- [Shell](./Languages/Shell.md)
 - [TypeScript](./Languages/TypeScript.md)
+- [Whitespace](./Languages/Whitespace.md)
 - [Zig](./Languages/Zig.md)
 
 ## Interpreter

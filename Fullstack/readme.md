@@ -2,7 +2,7 @@
 
 ---
 
-# API Design
+## API Design
 
 - [Cursor-based](./API_Design/Cursor-based.md)
 - [Hybrid](./API_Design/Hybrid.md)
