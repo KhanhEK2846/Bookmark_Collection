@@ -22,6 +22,8 @@
 - [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/datasets)
 - [V7](https://www.v7labs.com/open-datasets)
 
+## Deep Learning
+
 ## Label
 
 - [CVAT](https://www.cvat.ai/)
@@ -46,4 +48,4 @@
 
 ---
 
-[Return](./../README.md)
+[Return](./../readme.md)

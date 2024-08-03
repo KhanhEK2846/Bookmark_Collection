@@ -15,7 +15,6 @@
 - [Fullstack](./Fullstack/readme.md)
 - [IC Design](./ICDesign/readme.md)
 - [Internet](./Internet/readme.md)
-- [Machine Learning](./MachineLearning/readme.md)
 - [OS](./OS/readme.md)
 - [Principles & Conventions](./Principles_Conventions/readme.md)
 - [Programming Language](./ProgrammingLanguage/readme.md)
