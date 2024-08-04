@@ -6,6 +6,7 @@
 - [Part 2](https://fce.uit.edu.vn/cetut-part-2-gioi-thieu-ve-phan-mem-va-moi-truong-phat-trien-cho-stm32/)
 - [Part 3](https://fce.uit.edu.vn/cetut-part-1-gpio/)
 - [Part 4](https://fce.uit.edu.vn/cetut-part-4-external-interrupt/)
+- [Part 5](https://fce.uit.edu.vn/cetut-part-5-uart/)
 
 ---
 

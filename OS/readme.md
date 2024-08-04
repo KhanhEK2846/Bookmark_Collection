@@ -8,6 +8,8 @@
 
 ## Linux
 
+- [Offical](https://www.linux.org/)
+
 ## Languages
 
 - [Bash](./Languages/Bash.md)
@@ -15,13 +17,19 @@
 
 ## RTOS
 
-- [FreeRTOS](https://www.freertos.org/index.htmlhttps://www.freertos.org/index.html)
+- [FreeRTOS](https://www.freertos.org/index.htmlhttps://www.freertos.org/index.html)\
+
+## Ubunutu
+
+- [Offical](https://ubuntu.com/)
 
 ## Virtual Machine
 
 - [VirtualBox](https://www.virtualbox.org/wiki/Documentation)
 
 ## Window
+
+- [Download](https://www.microsoft.com/en-us/software-download/)
 
 ---
 

@@ -21,7 +21,7 @@
 
 ## Languages
 
-- [Assembly](./Languages/Assembly.md)
+- [ASM](./Languages/ASM.md)
 - [BrainF\*\*k](./Languages/Brainfuck.md)
 - [C#](./Languages/CSharp.md)
 - [C++](./Languages/C++.md)
@@ -32,6 +32,7 @@
 - [INTERCAL](./Languages/INTERCAL.md)
 - [Java](./Languages/Java.md)
 - [Javascript](./Languages/Javascript.md)
+- [MIPS](./Languages/MIPS.md)
 - [Malbolge](./Languages/Malbolge.md)
 - [Perl](./Languages/Perl.md)
 - [Pkl](./Languages/Pkl.md)

@@ -16,6 +16,7 @@
 - [Library](./BackEnd/Library.md)
 - [Framework](./BackEnd/Framework.md)
 - [Tool](./BackEnd/Tool.md)
+- [Video](./BackEnd/Video.md)
 
 ## Database
 
@@ -35,6 +36,7 @@
 - [Library](./FrontEnd/Library.md)
 - [Framework](./FrontEnd/Framework.md)
 - [Tool](./FrontEnd/Tool.md)
+- [Video](./FrontEnd/Video.md)
 
 ## Languages
 

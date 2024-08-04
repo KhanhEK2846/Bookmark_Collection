@@ -25,6 +25,7 @@
 
 ## Other
 
+- [Game](./Game/readme.md)
 - [Language](./Language/readme.md)
 
 ---
