@@ -1,4 +1,4 @@
-# CAN-TP
+# Controller Area Network Transfer Protocol
 
 ---
 
@@ -8,4 +8,4 @@
 
 ---
 
-[Return](./../readme.md)
+[Back](./../readme.md)

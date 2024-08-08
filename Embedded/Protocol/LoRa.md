@@ -10,10 +10,15 @@
 
 - [Easy LoRaWAN](https://www.facebook.com/groups/iotthinks/learning_content)
 
+## Library
+
+- [sandeepmistry/arduino-LoRa](https://github.com/sandeepmistry/arduino-LoRa)
+- [xreef/LoRa_E32_Series_Library](https://github.com/xreef/LoRa_E32_Series_Library)
+
 ## Tool
 
 - [Air time calculator](https://loratools.nl/#/airtime)
 
 ---
 
-[Return](./../readme.md)
+[Back](./../readme.md)
