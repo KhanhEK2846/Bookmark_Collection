@@ -14,6 +14,7 @@
 ## Technologies
 
 - [ASICs](./Technologies/ASICs.md)
+- [FPGA](./Technologies/FPGA.md)
 - [SoCs](./Technologies/SoCs.md)
 
 ---
