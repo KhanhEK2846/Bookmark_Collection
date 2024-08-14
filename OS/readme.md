@@ -17,7 +17,8 @@
 
 ## RTOS
 
-- [FreeRTOS](https://www.freertos.org/index.htmlhttps://www.freertos.org/index.html)\
+- [FreeRTOS](https://www.freertos.org/index.htmlhttps://www.freertos.org/index.html)
+- [RT-Thread RTOS Tutorials](https://embetronicx.com/rt-thread-rtos-tutorials/)
 
 ## Ubunutu
 

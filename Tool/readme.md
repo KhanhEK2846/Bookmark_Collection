@@ -37,6 +37,10 @@
 
 - [Password](./RandomGenerate/Password.md)
 
+## Scan Folder
+
+- [OMAT (Offline Malware Analysis Tool)](https://anticrypt.de/scan/)
+
 ## Speed Test
 
 - [Ookia](https://www.speedtest.net/)
