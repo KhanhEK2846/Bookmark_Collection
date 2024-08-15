@@ -5,6 +5,7 @@
 ## Animations
 
 - [AniJS](https://anijs.github.io/)
+- [Animate.css](https://animate.style/)
 - [Anime.js](https://animejs.com/)
 - [Animista](https://animista.net/)
 - [mo.js](https://mojs.github.io/)
