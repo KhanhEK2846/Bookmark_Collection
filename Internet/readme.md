@@ -4,6 +4,7 @@
 
 ## Blockchain
 
+- [Languages](./Blockchain/Languages.md)
 - [Software](./Blockchain/Software.md)
 
 ## Simulation

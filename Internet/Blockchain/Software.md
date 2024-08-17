@@ -5,7 +5,6 @@
 - [Aptos](https://aptosfoundation.org/)
 - [Bitcoin](https://bitcoin.org/)
 - [BNB](https://www.bnbchain.org/)
-- [Ethereum](#)
 - [NEAR](https://near.org/)
 - [Polkadot](https://polkadot.com/)
 - [Polygon](https://polygon.technology/)
