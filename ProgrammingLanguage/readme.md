@@ -29,6 +29,7 @@
 - [Dart](./Languages/Dart.md)
 - [GO](./Languages/GO.md)
 - [Haskell](./Languages/Haskell.md)
+- [Holy C](./Languages/HolyC.md)
 - [INTERCAL](./Languages/INTERCAL.md)
 - [Java](./Languages/Java.md)
 - [Javascript](./Languages/Javascript.md)

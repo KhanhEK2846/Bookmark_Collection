@@ -6,20 +6,17 @@
 
 - [AI](./AI/readme.md)
 - [API](./API/readme.md)
-- [Algorithms](./Algorithms/readme.md)
 - [App Developer](./AppDeveloper/readme.md)
-- [Cheatsheets](./Cheatsheets/readme.md)
 - [Course](./Course/readme.md)
 - [Embedded](./Embedded/readme.md)
 - [Forum](./Forum/readme.md)
 - [Fullstack](./Fullstack/readme.md)
 - [IC Design](./ICDesign/readme.md)
 - [Internet](./Internet/readme.md)
-- [OOP](./OOP/readme.md)
 - [OS](./OS/readme.md)
-- [Principles & Conventions](./Principles_Conventions/readme.md)
 - [Programming Language](./ProgrammingLanguage/readme.md)
 - [Services](./Services/readme.md)
+- [Techniques](./Techniques/readme.md)
 - [Tool](./Tool/readme.md)
 
 ---

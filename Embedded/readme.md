@@ -42,6 +42,7 @@
 
 ## Tutorial
 
+- [CEEC Club](https://fce.uit.edu.vn/category/clb-ceec/)
 - [peppe8o](https://peppe8o.com/)
 - [Random Nerd Tutorials](https://randomnerdtutorials.com/)
 
