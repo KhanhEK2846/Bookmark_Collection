@@ -38,14 +38,6 @@
 - [Tool](./FrontEnd/Tool.md)
 - [Video](./FrontEnd/Video.md)
 
-## Languages
-
-- [CSS](./Languages/CSS.md)
-- [HTML](./Languages/HTML.md)
-- [Markdown](./Languages/Markdown.md)
-- [PHP](./Languages/PHP.md)
-- [XHTML](./Languages/XHTML.md)
-
 ## Learn
 
 - [CryptoZombies](https://cryptozombies.io/)

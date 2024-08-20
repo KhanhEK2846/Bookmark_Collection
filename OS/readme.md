@@ -10,11 +10,6 @@
 
 - [Offical](https://www.linux.org/)
 
-## Languages
-
-- [Bash](./Languages/Bash.md)
-- [Shell](./Languages/Shell.md)
-
 ## RTOS
 
 - [FreeRTOS](https://www.freertos.org/index.htmlhttps://www.freertos.org/index.html)
