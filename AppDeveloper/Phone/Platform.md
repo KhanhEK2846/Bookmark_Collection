@@ -2,7 +2,7 @@
 
 ---
 
-- [Expo](https://docs.expo.dev/)
+- [Xcode](https://developer.apple.com/xcode/)
 
 ---
 

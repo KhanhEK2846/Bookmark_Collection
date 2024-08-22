@@ -20,13 +20,10 @@
 ## Protocol
 
 - [1-Wire](./Protocol/1-Wire.md)
-- [Bluetooth](./Protocol/Bluetooth.md)
+
 - [CAN](./Protocol/CAN.md)
 - [CAN-TP](./Protocol/CANTP.md)
-- [HTTP](./Protocol/HTTP.md)
 - [I²C](./Protocol/I²C.md)
-- [LoRa](./Protocol/LoRa.md)
-- [MQTT](./Protocol/MQTT.md)
 - [RFID](./Protocol/RFID.md)
 - [SPI](./Protocol/SPI.md)
 - [UART](./Protocol/UART.md)

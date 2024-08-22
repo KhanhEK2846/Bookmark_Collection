@@ -14,7 +14,7 @@
 - [IC Design](./ICDesign/readme.md)
 - [Network](./Network/readme.md)
 - [OS](./OS/readme.md)
-- [Programming Language](./ProgrammingLanguage/readme.md)
+- [Programming Language](./Language/readme.md)
 - [Services](./Services/readme.md)
 - [Techniques](./Techniques/readme.md)
 - [Tool](./Tool/readme.md)
@@ -23,8 +23,8 @@
 
 ## Other
 
+- [Foreign](./Foreign/readme.md)
 - [Game](./Game/readme.md)
-- [Language](./Language/readme.md)
 
 ---
 
