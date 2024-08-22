@@ -54,7 +54,7 @@
 
 - [Carbon Dating The Web](https://carbondate.cs.odu.edu/)
 - [Epoch Converter](https://www.epochconverter.com/)
-- [Internet Archive: Wayback Machine](https://archive.org/web/)
+- [Network Archive: Wayback Machine](https://archive.org/web/)
 
 ---
 

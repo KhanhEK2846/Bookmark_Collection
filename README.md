@@ -12,7 +12,7 @@
 - [Forum](./Forum/readme.md)
 - [Fullstack](./Fullstack/readme.md)
 - [IC Design](./ICDesign/readme.md)
-- [Internet](./Internet/readme.md)
+- [Network](./Network/readme.md)
 - [OS](./OS/readme.md)
 - [Programming Language](./ProgrammingLanguage/readme.md)
 - [Services](./Services/readme.md)

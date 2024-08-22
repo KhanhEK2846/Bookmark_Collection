@@ -1,4 +1,4 @@
-# Internet
+# Network
 
 ---
 
@@ -6,6 +6,9 @@
 
 - [Languages](./Blockchain/Languages.md)
 - [Software](./Blockchain/Software.md)
+
+## Model
+- [OSI](./Model/OSI.md)
 
 ## Simulation
 
@@ -24,3 +27,4 @@
 ---
 
 [Back](./../README.md)
+Model
