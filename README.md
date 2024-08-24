@@ -1,30 +1,11 @@
-# Bookmark Collection
+# Bookmark Collection's Tool
 
 ---
 
-## Developer
+## Ping URL
 
-- [AI](./AI/readme.md)
-- [API](./API/readme.md)
-- [App Developer](./AppDeveloper/readme.md)
-- [Course](./Course/readme.md)
-- [Embedded](./Embedded/readme.md)
-- [Forum](./Forum/readme.md)
-- [Fullstack](./Fullstack/readme.md)
-- [IC Design](./ICDesign/readme.md)
-- [Network](./Network/readme.md)
-- [OS](./OS/readme.md)
-- [Programming Language](./Language/readme.md)
-- [Services](./Services/readme.md)
-- [Techniques](./Techniques/readme.md)
-- [Tool](./Tool/readme.md)
-
----
-
-## Other
-
-- [Foreign](./Foreign/readme.md)
-- [Game](./Game/readme.md)
+- To use for checking that urls are alive or not
+- Put source code into folder .tool which is inside the folder contains README.md
 
 ---
 
