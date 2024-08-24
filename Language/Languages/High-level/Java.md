@@ -2,7 +2,7 @@
 
 ---
 
-## Offical
+## Official
 
 - [Java](https://dev.java/)
 

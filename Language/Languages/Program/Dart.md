@@ -2,7 +2,7 @@
 
 ---
 
-## Offical
+## Official
 
 - [Dart](https://dart.dev/guides)
 

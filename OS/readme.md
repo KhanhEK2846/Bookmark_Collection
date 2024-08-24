@@ -8,7 +8,7 @@
 
 ## Linux
 
-- [Offical](https://www.linux.org/)
+- [Official](https://www.linux.org/)
 
 ## RTOS
 
@@ -17,7 +17,7 @@
 
 ## Ubunutu
 
-- [Offical](https://ubuntu.com/)
+- [Official](https://ubuntu.com/)
 
 ## Virtual Machine
 

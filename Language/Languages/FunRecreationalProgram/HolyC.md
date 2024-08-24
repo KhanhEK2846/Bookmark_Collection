@@ -2,7 +2,7 @@
 
 ---
 
-## Offical
+## Official
 
 - [HolyC](https://holyc-lang.com/)
 

@@ -3,7 +3,7 @@
 ---
 
 - [A Docker Tutorial for Beginners](https://docker-curriculum.com/)
-- [Offical Guides](https://docs.docker.com/guides/)
+- [Official Guides](https://docs.docker.com/guides/)
 
 ---
 

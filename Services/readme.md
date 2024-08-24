@@ -5,7 +5,7 @@
 ## Docker
 
 - [Learn](./Docker/Learn.md)
-- [Offical](https://www.docker.com/)
+- [Official](https://www.docker.com/)
 - [Playground](./Docker/Playground.md)
 
 ## Github
@@ -13,43 +13,43 @@
 - [Download](./Github/Download.md)
 - [Evaluate](./Github/Evaluate.md)
 - [Learn](./Github/Learn.md)
-- [Offical](https://github.com/)
+- [Official](https://github.com/)
 - [Repositories](./Github/Repositories.md)
 - [Share](./Github/Share.md)
 
 ## GitLab
 
-- [Offical](https://about.gitlab.com/)
+- [Official](https://about.gitlab.com/)
 
 ## Gmail
 
-- [Offical](https://mail.google.com/)
+- [Official](https://mail.google.com/)
 - [SMTP](./Gmail/SMTP.md)
 
 ## Jenkins
 
-- [Offical](https://www.jenkins.io/)
+- [Official](https://www.jenkins.io/)
 
 ## Kubernetes
 
-- [Offical](https://kubernetes.io/)
+- [Official](https://kubernetes.io/)
 
 ## Outlook
 
-- [Offical](https://outlook.live.com/)
+- [Official](https://outlook.live.com/)
 - [SMTP](./Outlook/SMTP.md)
 
 ## Telegram
 
-- [Offical](https://web.telegram.org/)
+- [Official](https://web.telegram.org/)
 
 ## WhatsApp
 
-- [Offical](https://web.whatsapp.com/)
+- [Official](https://web.whatsapp.com/)
 
 ## YouTube
 
-- [Offical](https://www.youtube.com/)
+- [Official](https://www.youtube.com/)
 - [Tool](./YouTube/Tool.md)
 - [Playlist](./YouTube/Playlist.md)
 

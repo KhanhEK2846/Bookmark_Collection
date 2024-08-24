@@ -2,6 +2,7 @@
 
 ---
 
+- [Erlang](./High-level/Erlang.md)
 - [Java](./High-level/Java.md)
 - [Kotlin](./High-level/Kotlin.md)
 - [Perl](./High-level/Perl.md)

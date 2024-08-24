@@ -6,7 +6,7 @@
 
 - [Google Colab](https://colab.google/)
 
-## Offical
+## Official
 
 - [Python](https://www.python.org/doc/)
 

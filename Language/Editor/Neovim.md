@@ -2,7 +2,7 @@
 
 ---
 
-## Offical
+## Official
 
 - [hyperextensible Vim-based text editor](https://neovim.io/)
 

@@ -2,12 +2,20 @@
 
 ---
 
+## Chinese
+
+> Coming Soon
+
 ## English
 
 - [Dictionary](./English/Dictionary.md)
 - [Mock Test](./English/MockTest.md)
 
-## Japan
+## German
+
+> Coming Soon
+
+## Japanese
 
 > Coming Soon
 

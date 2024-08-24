@@ -2,25 +2,16 @@
 
 ---
 
-## Architecture
-
-- [CAN](./Architecture/CAN.md)
-- [Intranet](./Architecture/Intranet.md)
-- [LAN](./Architecture/LAN.md)
-- [MAN](./Architecture/MAN.md)
-- [PAN](./Architecture/PAN.md)
-- [SAN](./Architecture/SAN.md)
-- [WAN](./Architecture/WAN.md)
-
 ## Blockchain
 
 - [Languages](./Blockchain/Languages.md)
 - [Software](./Blockchain/Software.md)
 
-## Function
+## Computer Network
 
-- [Client – Server](./Function/ClientServer.md)
-- [P2P](./Function/P2P.md)
+- [Architecture](./ComputerNetwork/Architecture.md)
+- [Function](./ComputerNetwork/Function.md)
+- [Topology](./ComputerNetwork/Topology.md)
 
 ## Model
 
@@ -51,16 +42,6 @@
 - [Repositories](./Security/Repositories.md)
 - [Tool](./Security/Tool.md)
 
-## Topology
-
-- [Bus](./Topology/Bus.md)
-- [Extended Star](./Topology/ExtendedStar.md)
-- [Hierarchical](./Topology/Hierarchical.md)
-- [Mesh](./Topology/Mesh.md)
-- [Ring](./Topology/Ring.md)
-- [Star](./Topology/Star.md)
-
 ---
 
 [Back](./../README.md)
-Model

@@ -2,7 +2,7 @@
 
 ---
 
-## Offical
+## Official
 
 - [Vue.js](https://vuejs.org/guide/introduction.html)
 

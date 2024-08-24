@@ -2,7 +2,7 @@
 
 ---
 
-## Offical
+## Official
 
 - [Pkl](https://pkl-lang.org/blog/introducing-pkl.html)
 

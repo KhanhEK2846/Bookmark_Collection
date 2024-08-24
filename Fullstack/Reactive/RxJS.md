@@ -6,7 +6,7 @@
 
 - [Learn RxJS](https://www.learnrxjs.io/)
 
-## Offical
+## Official
 
 - [RxJS](https://rxjs.dev/)
 

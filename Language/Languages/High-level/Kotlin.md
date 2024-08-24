@@ -2,7 +2,7 @@
 
 ---
 
-## Offical
+## Official
 
 - [Kotlin](https://kotlinlang.org/)
 

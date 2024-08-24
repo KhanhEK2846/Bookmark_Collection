@@ -6,7 +6,7 @@
 
 - [An Eight-Instruction Turing-Complete Programming Language](https://muppetlabs.com/~breadbox/bf/)
 
-## Offical
+## Official
 
 - [some brainfuck fluff](https://brainfuck.org/)
 

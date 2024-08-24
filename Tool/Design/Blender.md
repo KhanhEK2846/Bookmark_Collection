@@ -2,7 +2,7 @@
 
 ---
 
-## Offical
+## Official
 
 - [Blender](https://www.blender.org/)
 

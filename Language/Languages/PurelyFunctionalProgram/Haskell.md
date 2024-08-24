@@ -6,7 +6,7 @@
 
 - [Haskell PlayGround](https://play.haskell.org/)
 
-## Offical
+## Official
 
 - [Haskell Language](https://www.haskell.org/)
 

@@ -6,4 +6,4 @@
 
 ---
 
-[Back](./../readme.md)
+[Back](./../Function.md)

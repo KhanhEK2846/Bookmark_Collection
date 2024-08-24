@@ -6,7 +6,7 @@
 
 - [swift](https://developer.apple.com/swift/)
 
-## Offical
+## Official
 
 - [Swift](https://www.swift.org/)
 

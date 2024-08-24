@@ -2,7 +2,7 @@
 
 ---
 
-## Offical
+## Official
 
 - [PHP Manual](https://www.php.net/manual/en/)
 

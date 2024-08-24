@@ -2,7 +2,7 @@
 
 ---
 
-## Offical
+## Official
 
 - [React](https://react.dev/)
 
