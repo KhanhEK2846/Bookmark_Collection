@@ -8,6 +8,7 @@
 - [GO](./Program/GO.md)
 - [Javascript](./Program/Javascript.md)
 - [Objective-C](./Program/Objective-C.md)
+- [Pascal](./Program/Pascal.md)
 - [Pkl](./Program/Pkl.md)
 - [Ruby](./Program/Ruby.md)
 - [Rust](./Program/Rust.md)

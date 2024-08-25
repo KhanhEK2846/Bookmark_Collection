@@ -10,7 +10,10 @@
 - [Express.js](https://expressjs.com/)
 - [Flask](https://flask.palletsprojects.com/en/3.0.x/)
 - [Next.js](https://nextjs.org/learn)
+- [Nuxt](https://nuxt.com/)
 - [Node.js](./Framework/NodeJS.md)
+- [SST](https://sst.dev/)
+- [SvelteKit](https://kit.svelte.dev/)
 
 ---
 

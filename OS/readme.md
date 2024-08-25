@@ -15,6 +15,10 @@
 - [FreeRTOS](https://www.freertos.org/index.htmlhttps://www.freertos.org/index.html)
 - [RT-Thread RTOS Tutorials](https://embetronicx.com/rt-thread-rtos-tutorials/)
 
+## Tails OS
+
+- [Official](https://tails.net/)
+
 ## Ubunutu
 
 - [Official](https://ubuntu.com/)

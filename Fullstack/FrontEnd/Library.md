@@ -15,6 +15,10 @@
 - [Mantine](https://mantine.dev/)
 - [PrimeReact](https://primereact.org/)
 
+## Focused UI Library
+
+- [htmx](https://htmx.org/)
+
 ## Fonts
 
 - [Browse Fonts](https://fonts.google.com/)

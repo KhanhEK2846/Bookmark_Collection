@@ -15,6 +15,11 @@
 - [Free APIs](https://free-apis.github.io/#/)
 - [Sample APIs](https://sampleapis.com/)
 
+## Communication
+
+- [Stringee](https://stringee.com/)
+- [WebRTC](https://webrtc.org/)
+
 ## Countries
 
 - [REST COUNTRIES](https://restcountries.com/)

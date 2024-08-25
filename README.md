@@ -15,9 +15,8 @@
 - [Network](./Network/readme.md)
 - [OS](./OS/readme.md)
 - [Programming Language](./Language/readme.md)
-- [Services](./Services/readme.md)
 - [Techniques](./Techniques/readme.md)
-- [Tool](./Tool/readme.md)
+- [Tool & Service](./Tool_Service/readme.md)
 
 ---
 

@@ -10,6 +10,22 @@
 - [Toools.design](https://www.toools.design/)
 - [True Devtools](https://truedevtools.com/)
 
+## Communications
+
+- [Gmail](./Communications/Gmail.md)
+- [Outlook](./Communications/Outlook.md)
+- [Telegram](./Communications/Telegram.md)
+- [WhatsApp](./Communications/WhatsApp.md)
+
+## Deployments & Management
+
+- [Docker](./Deployments/Docker.md)
+- [Github](./Deployments/Github.md)
+- [GitLab](./Deployments/GitLab.md)
+- [Jenkins](./Deployments/Jenkins.md)
+- [Kubernetes](./Deployments/Kubernetes.md)
+- [Nix](./Deployments/Nix.md)
+
 ## Design
 
 - [Blender](./Design/Blender.md)
@@ -55,6 +71,10 @@
 - [Carbon Dating The Web](https://carbondate.cs.odu.edu/)
 - [Epoch Converter](https://www.epochconverter.com/)
 - [Network Archive: Wayback Machine](https://archive.org/web/)
+
+## Video
+
+- [YouTube](./Video/YouTube.md)
 
 ---
 
