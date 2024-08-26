@@ -20,10 +20,11 @@
 ## Protocol
 
 - [1-Wire](./Protocol/1-Wire.md)
-
 - [CAN](./Protocol/CAN.md)
 - [CAN-TP](./Protocol/CANTP.md)
+- [FlexRay](./Protocol/FlexRay.md)
 - [I²C](./Protocol/I²C.md)
+- [LIN](./Protocol/LIN.md)
 - [RFID](./Protocol/RFID.md)
 - [SPI](./Protocol/SPI.md)
 - [UART](./Protocol/UART.md)
