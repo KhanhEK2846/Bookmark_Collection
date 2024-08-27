@@ -22,6 +22,10 @@
 - [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/datasets)
 - [V7](https://www.v7labs.com/open-datasets)
 
+## Data Science
+
+- [Videos](./DataScience/Videos.md)
+
 ## Deep Learning
 
 > Coming Soon
