@@ -23,6 +23,7 @@
 - [CAN](./Protocol/CAN.md)
 - [CAN-TP](./Protocol/CANTP.md)
 - [FlexRay](./Protocol/FlexRay.md)
+- [HDMI](./Protocol/HDMI.md)
 - [I²C](./Protocol/I²C.md)
 - [LIN](./Protocol/LIN.md)
 - [RFID](./Protocol/RFID.md)
