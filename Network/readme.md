@@ -31,9 +31,11 @@
 - [HTTP](./Protocol/HTTP.md)
 - [LoRa](./Protocol/LoRa.md)
 - [MQTT](./Protocol/MQTT.md)
+- [SSH](./Protocol/SSH.md)
 - [TCP](./Protocol/TCP.md)
 - [TCP/IP](./Protocol/TCPIP.md)
 - [UDP](./Protocol/UDP.md)
+- [VPN](./Protocol/VPN.md)
 - [WiFi](./Protocol/WiFi.md)
 
 ## Security
