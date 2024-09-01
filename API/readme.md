@@ -64,6 +64,10 @@
 - [JokeAPI](https://sv443.net/jokeapi/v2/)
 - [ZenQuotes](https://zenquotes.io/)
 
+## Tools
+
+- [Swagger](https://swagger.io/)
+
 ## Translation
 
 - [Localazy API](https://localazy.com/features/translation-api?utm_term=translate%20api&utm_campaign=COLD_PRODUCTS&utm_source=adwords&utm_medium=ppc&gad_source=1)
