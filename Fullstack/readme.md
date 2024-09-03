@@ -29,6 +29,7 @@
 - [MongoDB](https://account.mongodb.com/account/login?signedOut=true)
 - [MySQL](./Database/MySQL.md)
 - [PostgreSQL](https://www.postgresql.org/)
+- [Redis](https://redis.io/docs/latest/)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 - [TimescaleDB](https://www.timescale.com/)
 
@@ -47,6 +48,11 @@
 - [LearnWeb3](https://learnweb3.io/)
 - [Rapid API Learn](https://rapidapi.com/learn)
 - [web.dev](https://web.dev/learn)
+
+## Message Queue
+
+- [Apache Kafka](https://kafka.apache.org/documentation/)
+- [RabbitMQ](https://www.rabbitmq.com/docs)
 
 ## Reactive Programming
 
