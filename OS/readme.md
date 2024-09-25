@@ -6,6 +6,10 @@
 
 - [Operating System Concepts](https://www.os-book.com/OS10/)
 
+## FreeBSD
+
+- [Official](https://www.freebsd.org/)
+
 ## Linux
 
 - [Official](https://www.linux.org/)
