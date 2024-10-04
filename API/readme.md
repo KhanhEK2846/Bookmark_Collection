@@ -43,6 +43,10 @@
 - [FreeToGames](https://www.freetogame.com/api-doc)
 - [PokeAPI](https://pokeapi.co/)
 
+## Map
+
+- [Mapbox](https://www.mapbox.com/)
+
 ## Movie
 
 - [TMDB](https://developer.themoviedb.org/docs/getting-started)
@@ -51,9 +55,9 @@
 
 - [News API](https://newsapi.org/)
 
-## Sports
+## Search
 
-- [API-Football](https://www.api-football.com/https://www.api-football.com/)
+- [SerpAPI](https://serpapi.com/)
 
 ## Shop
 
@@ -63,6 +67,10 @@
 
 - [JokeAPI](https://sv443.net/jokeapi/v2/)
 - [ZenQuotes](https://zenquotes.io/)
+
+## Sports
+
+- [API-Football](https://www.api-football.com/https://www.api-football.com/)
 
 ## Tools
 
