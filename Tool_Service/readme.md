@@ -19,6 +19,7 @@
 
 ## Deployments & Management
 
+- [Ansible](./Deployments/Ansible.md)
 - [Docker](./Deployments/Docker.md)
 - [Github](./Deployments/Github.md)
 - [GitLab](./Deployments/GitLab.md)
@@ -78,7 +79,8 @@
 
 ## Video
 
-- [YouTube](./Video/YouTube.md)
+- [Edit](./Video/Edit.md)
+- [Storage](./Video/Storage.md)
 
 ---
 

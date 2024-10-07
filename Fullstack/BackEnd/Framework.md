@@ -33,6 +33,10 @@
 - [Django](./Python/Django.md)
 - [Flask](https://flask.palletsprojects.com/en/3.0.x/)
 
+## Ruby
+
+- [Ruby on Rails](https://rubyonrails.org/)
+
 ---
 
 [Back](./../readme.md)
