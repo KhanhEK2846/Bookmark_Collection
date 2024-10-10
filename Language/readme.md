@@ -25,6 +25,7 @@
 - [Computer](./Languages/Computer.md)
 - [Esoteric Program](./Languages/EsotericProgram.md)
 - [Fun Recreational Program](./Languages/FunRecreationalProgram.md)
+- [General-Purpose](./Languages/General-Purpose.md)
 - [Hardware Description](./Languages/HardwareDescription.md)
 - [High-level](./Languages/High-level.md)
 - [Low-level](./Languages/Low-level.md)

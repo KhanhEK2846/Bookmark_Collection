@@ -5,6 +5,7 @@
 - [Erlang](./High-level/Erlang.md)
 - [Java](./High-level/Java.md)
 - [Kotlin](./High-level/Kotlin.md)
+- [Lisp](./High-level/Lisp.md)
 - [Perl](./High-level/Perl.md)
 - [Python](./High-level/Python.md)
 - [Scala](./High-level/Scala.md)
