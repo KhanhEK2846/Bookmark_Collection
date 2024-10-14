@@ -21,6 +21,7 @@
 
 ## Languages
 
+- [Compiled Language](./Languages/Compiled.md)
 - [Compiler Language With No Pronounceable Acronym](./Languages/Compiler.md)
 - [Computer](./Languages/Computer.md)
 - [Esoteric Program](./Languages/EsotericProgram.md)

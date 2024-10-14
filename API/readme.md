@@ -55,6 +55,10 @@
 
 - [News API](https://newsapi.org/)
 
+## Online Payment
+
+- [Stripe](https://docs.stripe.com/development)
+
 ## Search
 
 - [SerpAPI](https://serpapi.com/)

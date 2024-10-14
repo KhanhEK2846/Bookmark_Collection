@@ -56,7 +56,7 @@
 - [Postman](https://www.postman.com/)
 - [WordPress](https://wordpress.com/fr/)
 
-## Web Host
+## Web Host Server
 
 - [000Webhost](https://vn.000webhost.com/)
 - [50webs](https://www.50webs.com/)
@@ -71,6 +71,7 @@
 - [Googie Host](https://googiehost.com/)
 - [InfinityFree](https://www.infinityfree.com/)
 - [Netlify](https://www.netlify.com/)
+- [NGINX](https://nginx.org/en/)
 - [Pxxl.space](https://pxxl.space/)
 - [Render](https://render.com/)
 - [Ultimatefreehost.in](https://www.ultimatefreehost.in/)

@@ -3,6 +3,7 @@
 ---
 
 - [C--](./PortableAssembly/C--.md)
+- [Wasm](./PortableAssembly/Wasm.md)
 
 ---
 
