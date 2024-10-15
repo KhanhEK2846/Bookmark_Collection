@@ -25,6 +25,7 @@
 - [Compiler Language With No Pronounceable Acronym](./Languages/Compiler.md)
 - [Computer](./Languages/Computer.md)
 - [Esoteric Program](./Languages/EsotericProgram.md)
+- [Expression Language](./Languages/ExpressionLanguage.md)
 - [Fun Recreational Program](./Languages/FunRecreationalProgram.md)
 - [General-Purpose](./Languages/General-Purpose.md)
 - [Hardware Description](./Languages/HardwareDescription.md)
