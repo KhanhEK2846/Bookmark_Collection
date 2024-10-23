@@ -2,8 +2,8 @@
 
 ---
 
-- [INTERCAL](./Compiler/INTERCAL.md)
+- [INTERCAL](./INTERCAL.md)
 
 ---
 
-[Back](./../readme.md)
+[Back](./../../readme.md)

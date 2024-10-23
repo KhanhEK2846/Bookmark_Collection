@@ -12,4 +12,4 @@
 
 ---
 
-[Back](./../ServerScript.md)
+[Back](./readme.md)
