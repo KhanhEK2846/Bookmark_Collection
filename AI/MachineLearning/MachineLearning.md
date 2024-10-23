@@ -42,8 +42,11 @@
 - [Computation](./Library/Computation.md)
 - [Train Model](./Library/Train.md)
 - [Interfaces](./Library/Interfaces.md)
+- [Other](./Library/Other.md)
 - [Visualizations](./Library/Visualizations.md)
 
+## Software
+- [Visualizations](./Software/Visualizations.md)
 ## Study
 
 - [Elements of AI](https://elementsofai.com/s)
