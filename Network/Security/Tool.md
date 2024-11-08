@@ -2,11 +2,23 @@
 
 ---
 
+## Brute force
+
+- [Hydra](https://www.kali.org/tools/hydra/)
+
 ## Data Breaches
 
 - [Breach-Parse](https://github.com/hmaverickadams/breach-parse)
 - [Have I Been Pwned](https://haveibeenpwned.com/)
 - [We Leak Info](https://weleakinfo.io/)
+
+## DNS Spoofing
+
+- [DNSChef](https://github.com/iphelix/dnschef)
+
+## Drive-By Downloads
+
+- [Blackhole exploit](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackhole-exploit-kit-v2/)
 
 ## Email Addresses Discover
 
@@ -39,6 +51,18 @@
 
 - [OpenSSH](https://www.openssh.com/)
 
+## Rootkits
+
+- [RootkitRevealer](https://www.bleepingcomputer.com/download/rootkitrevealer/)
+
+## Session Hijacking
+
+- [Session Hijacking](https://github.com/CookieCadger/CookieCadger)
+
+## Social Engineering
+
+- [The Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit)
+
 ## Target Identify
 
 - [Bugcrowd](https://www.bugcrowd.com/)
@@ -53,6 +77,10 @@
 
 - [OpenVAS](https://www.openvas.org/)
 - [sqlmap®](https://sqlmap.org/)
+
+## XSS
+
+- [XSSer | Tool](https://github.com/epsylon/xsser)
 
 ---
 
