@@ -22,8 +22,12 @@
 
 ## Email Addresses Discover
 
+- [Clearbit Connect](https://clearbit.com/resources/tools/connect)
+- [Email Checker](https://email-checker.net/)
+- [Email Hippo](https://tools.emailhippo.com/)
 - [Hunter.io](https://hunter.io/)
 - [Phonebook.cz](https://phonebook.cz/)
+- [Voila Norbert](https://www.voilanorbert.com/)
 
 ## Fingerprinting
 
