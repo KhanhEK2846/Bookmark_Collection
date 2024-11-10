@@ -2,6 +2,19 @@
 
 ---
 
+## DNS Attacks
+
+- [DNS Amplification](./DNSAtk/Ampli.md)
+- [DNS Cache Poisoning](./DNSAtk/CaPoi.md)
+- [DNS Flooding](./DNSAtk/Flood.md)
+- [DNS Hijacking](./DNSAtk/Hijack.md)
+- [DNS Rebinding](./DNSAtk/Rebind.md)
+- [DNS Tunneling](./DNSAtk/Tunnel.md)
+- [DNSSEC Bybass](./DNSAtk/DNSSEC.md)
+- [Domain Generation Algorithm Attack](./DNSAtk/DomGenAlgoAtk.md)
+- [NXDOMAIN Attack](./DNSAtk/NXDOMAIN.md)
+- [Subdomain Attack](./DNSAtk/SubdoAtk.md)
+
 ## Hacking Technique
 
 - [Backdoors](./HaTech/Backdoors.md)

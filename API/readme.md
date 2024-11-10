@@ -4,7 +4,12 @@
 
 ## Book
 
+- [Google Books](https://developers.google.com/books)
 - [Open library-Books](https://openlibrary.org/developers/api)
+
+## Cats
+
+- [The Cat API](https://thecatapi.com/)
 
 ## Charts
 
@@ -28,6 +33,21 @@
 
 - [FreecurrencyAPI](https://freecurrencyapi.com/)
 
+## Dictionary
+
+- [dictionaryapi](https://dictionaryapi.com/)
+- [Oxford Dictionaries](https://developer.oxforddictionaries.com/)
+
+## Dogs
+
+- [Dog API](https://dog.ceo/dog-api/)
+- [The Dog API](https://thedogapi.com/)
+
+## Ecommerce
+
+- [Shopify](https://shopify.dev/docs/api)
+- [WooCommerce](https://woocommerce.com/document/woocommerce-rest-api/)
+
 ## Fake data
 
 - [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
@@ -36,12 +56,29 @@
 
 ## Food
 
+- [spoonacular](https://spoonacular.com/food-api)
+- [Getty Images](https://developers.gettyimages.com/)
+- [Pexels](https://www.pexels.com/api/)
 - [TheMealDB](https://www.themealdb.com/api.php)
+
+## Gallery
+
+- [Flickr](https://www.flickr.com/services/developer/api/)
+- [the Official Unsplash](https://unsplash.com/developers)
 
 ## Game
 
 - [FreeToGames](https://www.freetogame.com/api-doc)
 - [PokeAPI](https://pokeapi.co/)
+
+## GIPHY
+
+- [GIPHY SDK](https://developers.giphy.com/docs/sdk/)
+
+## Jokes
+
+- [DadJokes.io](https://www.dadjokes.io/)
+- [JokeAPI](https://sv443.net/jokeapi/v2/)
 
 ## Map
 
@@ -49,32 +86,39 @@
 
 ## Movie
 
+- [Rotten Tomatoes](https://rapidapi.com/collection/rotten-tomatoes-api)
 - [TMDB](https://developer.themoviedb.org/docs/getting-started)
+
+## National Park Service
+
+- [NPS](https://nps.gov/subjects/developer/api-documentation.htm)
 
 ## News
 
 - [News API](https://newsapi.org/)
+- [nytimes](https://developer.nytimes.com/apis)
 
 ## Online Payment
 
 - [Stripe](https://docs.stripe.com/development)
 
+## Quotes
+
+- [ZenQuotes](https://zenquotes.io/)
+
 ## Search
 
+- [Custom Search JSON API](https://developers.google.com/custom-search/v1/introduction)
 - [SerpAPI](https://serpapi.com/)
 
 ## Shop
 
 - [Commerce.js](https://commercejs.com/)
 
-## Speech
-
-- [JokeAPI](https://sv443.net/jokeapi/v2/)
-- [ZenQuotes](https://zenquotes.io/)
-
 ## Sports
 
-- [API-Football](https://www.api-football.com/https://www.api-football.com/)
+- [API-Football](https://api-sports.io/)
+- [Sportradar](https://developer.sportradar.com/getting-started/docs/coverage-information)
 
 ## Tools
 
@@ -88,6 +132,11 @@
 
 - [OpenWeather](https://openweathermap.org/)
 - [Rapid API](https://rapidapi.com/onetech265/api/weather-api-by-any-city)
+- [Weather Underground](https://www.wunderground.com/)
+
+## YouTube
+
+- [You Tube](https://developers.google.com/youtube/v3)
 
 ---
 

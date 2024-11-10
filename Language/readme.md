@@ -32,6 +32,7 @@
 - [High-level](./Languages/High-level/readme.md)
 - [Low-level](./Languages/Low-level/readme.md)
 - [MIPS](./Languages/MIPS/readme.md)
+- [Other](./Languages/Other/readme.md)
 - [Portable Assembly](./Languages/PortableAssembly/readme.md)
 - [Program](./Languages/Program/readme.md)
 - [Purely Functional Program](./Languages/PurelyFunctionalProgram/readme.md)
