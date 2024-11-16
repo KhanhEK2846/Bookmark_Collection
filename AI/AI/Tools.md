@@ -51,10 +51,6 @@
 - [Flot](https://flot.ai/)
 - [GitMind](https://gitmind.com/)
 
-## PCB
-
-- [Flux](https://www.flux.ai/p)
-
 ## Summarize
 
 - [NoteGPT](https://notegpt.io/)

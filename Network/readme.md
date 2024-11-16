@@ -43,6 +43,7 @@
 - [Documents](./Security/Documents.md)
 - [Course](./Security/Course.md)
 - [Framework](./Security/Framework.md)
+- [Platform](./Security/Platform.md)
 - [Repositories](./Security/Repositories.md)
 - [Tool](./Security/Tool.md)
 

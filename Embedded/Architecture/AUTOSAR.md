@@ -8,7 +8,7 @@
 
 ## DEM
 
-> Coming Soon
+- [Documents](https://www.autosar.org/fileadmin/standards/R20-11/CP/AUTOSAR_SWS_DiagnosticEventManager.pdf)
 
 ## Diagnostics
 

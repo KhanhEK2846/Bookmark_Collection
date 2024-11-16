@@ -14,6 +14,7 @@
 
 ## PCB
 
+- [AI](./PCB/AI.md)
 - [Draw](./PCB/Draw.md)
 - [Order](./PCB/Order.md)
 

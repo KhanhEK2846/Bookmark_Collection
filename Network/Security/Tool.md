@@ -2,8 +2,17 @@
 
 ---
 
+## Access Device
+
+- [Storm Breaker](https://github.com/ultrasecurity/Storm-Breaker)
+
+## Artificial Intelligence
+
+- [WhiteRabbitNeo](https://www.whiterabbitneo.com/)
+
 ## Brute force
 
+- [Gobuster](https://github.com/OJ/gobuster)
 - [Hydra](https://www.kali.org/tools/hydra/)
 
 ## Data Breaches
