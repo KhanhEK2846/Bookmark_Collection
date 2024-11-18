@@ -4,7 +4,7 @@
 
 ## Machine Learning
 
-- [Machine Learning](./MachineLearning/MachineLearning.md)
+- [Machine Learning](./MachineLearning/readme.md)
 
 ## Training
 

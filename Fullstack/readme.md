@@ -21,7 +21,7 @@
 
 ## Database
 
-- [Server](./Database/Server.md)
+- [Server](./Database/Server/readme.md)
 - [Serverless](./Database/Serverless.md)
 
 ## Front End
@@ -29,7 +29,7 @@
 - [Course](./FrontEnd/Course.md)
 - [Documents](./FrontEnd/Documents.md)
 - [Library](./FrontEnd/Library.md)
-- [Framework](./FrontEnd/Framework.md)
+- [Framework](./FrontEnd/Framework/readme.md)
 - [Tool](./FrontEnd/Tool.md)
 - [Video](./FrontEnd/Video.md)
 

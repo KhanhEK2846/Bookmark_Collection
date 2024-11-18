@@ -29,15 +29,18 @@
 
 ## Design
 
-- [Blender](./Design/Blender.md)
-- [Canva](https://www.canva.com/)
-- [Draw.io](https://draw.io/)
-- [Figma](https://www.figma.com/)
-- [Tinkercad](https://www.tinkercad.com/)
+- [2D](./Design/2D/readme.md)
+- [3D](./Design/3D/readme.md)
+- [Pixel](./Design/Pixel/readme.md)
 
 ## Encode
 
 - [CryptoJS](https://artjomb.github.io/cryptojs-extension/)
+
+## Manage Notes
+
+- [ClickUp™](https://clickup.com/)
+- [Obsidian - Connected Notes](https://obsidian.md/)
 
 ## Powerpoint
 
@@ -58,7 +61,17 @@
 
 - [OMAT (Offline Malware Analysis Tool)](https://anticrypt.de/scan/)
 
-## Speed Test
+## Search Files
+
+- [UltraSearch](https://www.jam-software.com/ultrasearch)
+
+## Sound Effect
+
+- [BeepBox](https://www.beepbox.co/)
+- [FreePD](https://freepd.com/)
+- [SONNISS](https://sonniss.com/)
+
+## Speed Internet Test
 
 - [Ookia](https://www.speedtest.net/)
 

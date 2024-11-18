@@ -10,6 +10,10 @@
 
 - [Official](https://www.freebsd.org/)
 
+## Kali
+
+- [Official](https://www.kali.org/)
+
 ## Linux
 
 - [Official](https://www.linux.org/)

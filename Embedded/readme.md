@@ -9,7 +9,7 @@
 ## Hardware
 
 - [Datasheet](./Hardware/Datasheet.md)
-- [Hardware Board](./Hardware/HardwareBoard.md)
+- [Hardware Board](./Hardware/HardwareBoard/readme.md)
 - [Shop](./Hardware/Shop.md)
 
 ## PCB
@@ -26,6 +26,7 @@
 - [FlexRay](./Protocol/FlexRay.md)
 - [HDMI](./Protocol/HDMI.md)
 - [I²C](./Protocol/I²C.md)
+- [JTAG](./Protocol/JTAG.md)
 - [LIN](./Protocol/LIN.md)
 - [RFID](./Protocol/RFID.md)
 - [SPI](./Protocol/SPI.md)

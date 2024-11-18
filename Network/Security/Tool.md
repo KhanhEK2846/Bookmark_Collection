@@ -57,6 +57,7 @@
 
 ## Password Cracking
 
+- [Aircrack-ng](https://www.aircrack-ng.org/)
 - [Hashcat](https://en.iguru.gr/odigos-hashcat-gia-archarious/)
 - [John the Ripper](https://www.openwall.com/john/)
 
@@ -88,6 +89,8 @@
 
 ## Vulnerability Scanner
 
+- [Burp Suite](https://portswigger.net/burp)
+- [nikto](https://github.com/sullo/nikto)
 - [OpenVAS](https://www.openvas.org/)
 - [sqlmap®](https://sqlmap.org/)
 

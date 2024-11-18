@@ -9,8 +9,8 @@
 
 ## Protocol
 
-- [ESP-NOW](./ESP/ESP-NOW.md)
+- [ESP-NOW](./ESP-NOW.md)
 
 ---
 
-[Back](./../HardwareBoard.md)
+[Back](./../readme.md)

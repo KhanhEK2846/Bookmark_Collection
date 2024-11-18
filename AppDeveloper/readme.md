@@ -13,7 +13,7 @@
 
 ## Phone
 
-- [Framwork](./Phone/Framework.md)
+- [Framwork](./Phone/Framework/readme.md)
 - [IDE](./Phone/IDE.md)
 - [Platform](./Phone/Platform.md)
 - [Tool](./Phone/Tool.md)

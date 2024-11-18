@@ -9,9 +9,9 @@
 
 ## Computer Network
 
-- [Architecture](./ComputerNetwork/Architecture.md)
-- [Function](./ComputerNetwork/Function.md)
-- [Topology](./ComputerNetwork/Topology.md)
+- [Architecture](./ComputerNetwork/Architecture/readme.md)
+- [Function](./ComputerNetwork/Function/readme.md)
+- [Topology](./ComputerNetwork/Topology/readme.md)
 
 ## Model
 
