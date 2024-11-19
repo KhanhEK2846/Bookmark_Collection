@@ -28,7 +28,11 @@
 
 ## Deep Learning
 
-> Coming Soon
+- [Documents](./DL/Documents.md)
+
+## Documents
+
+- [Models](./Documents/Models.md)
 
 ## Label
 
@@ -46,7 +50,9 @@
 - [Visualizations](./Library/Visualizations.md)
 
 ## Software
+
 - [Visualizations](./Software/Visualizations.md)
+
 ## Study
 
 - [Elements of AI](https://elementsofai.com/s)
