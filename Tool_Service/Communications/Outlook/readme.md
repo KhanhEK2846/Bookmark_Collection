@@ -3,8 +3,8 @@
 ---
 
 - [Official](https://outlook.live.com/)
-- [SMTP](./Outlook/SMTP.md)
+- [SMTP](./SMTP.md)
 
 ---
 
-[Back](./../readme.md)
+[Back](./../../readme.md)

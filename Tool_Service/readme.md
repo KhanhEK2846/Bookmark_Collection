@@ -12,8 +12,8 @@
 
 ## Communications
 
-- [Gmail](./Communications/Gmail.md)
-- [Outlook](./Communications/Outlook.md)
+- [Gmail](./Communications/Gmail/readme.md)
+- [Outlook](./Communications/Outlook/readme.md)
 - [Telegram](./Communications/Telegram.md)
 - [WhatsApp](./Communications/WhatsApp.md)
 

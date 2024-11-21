@@ -28,6 +28,18 @@
 - [SST](https://sst.dev/)
 - [SvelteKit](https://kit.svelte.dev/)
 
+## PHP
+
+- [CakePHP](https://cakephp.org/)
+- [CodeIgniter](https://www.codeigniter.com/)
+- [Drupal](https://www.drupal.org/)
+- [FuelPHP](https://fuelphp.com/)
+- [Laminas](https://getlaminas.org/) [^1]
+- [Laravel](https://laravel.com/)
+- [Phalcon](https://docs.phalcon.io/latest/introduction/)
+- [Symfony](https://symfony.com/)
+- [Yii](https://www.yiiframework.com/)
+
 ## Python
 
 - [Django](./Python/Django.md)
@@ -40,3 +52,5 @@
 ---
 
 [Back](./../readme.md)
+
+[^1]: Used to Zend Framework

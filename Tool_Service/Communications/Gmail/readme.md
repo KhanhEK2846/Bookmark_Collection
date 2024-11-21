@@ -3,8 +3,8 @@
 ---
 
 - [Official](https://mail.google.com/)
-- [SMTP](./Gmail/SMTP.md)
+- [SMTP](./SMTP.md)
 
 ---
 
-[Back](./../readme.md)
+[Back](./../../readme.md)
