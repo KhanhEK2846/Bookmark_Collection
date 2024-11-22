@@ -10,6 +10,11 @@
 
 - [WhiteRabbitNeo](https://www.whiterabbitneo.com/)
 
+## Attack Surface
+
+- [AirSnort](https://mirror.unpad.ac.id/orari/library/library-sw-hw/linux-1/airsnort/AirSnort%20Homepage.htm)
+- [Amass](https://github.com/owasp-amass/amass)
+
 ## Brute force
 
 - [Gobuster](https://github.com/OJ/gobuster)
@@ -41,8 +46,11 @@
 ## Fingerprinting
 
 - [BuiltWith](https://builtwith.com/)
+- [Maltego](https://www.maltego.com/)
 - [Netcat](https://sectools.org/tool/netcat/)
 - [NMAP](https://nmap.org/docs.html)
+- [Shodan](https://www.shodan.io/)
+- [theHarvester](https://github.com/laramies/theHarvester)
 - [Wappalyzer](https://www.wappalyzer.com/)
 - [WhatWeb](https://whatweb.net/)
 
@@ -60,6 +68,7 @@
 - [Aircrack-ng](https://www.aircrack-ng.org/)
 - [Hashcat](https://en.iguru.gr/odigos-hashcat-gia-archarious/)
 - [John the Ripper](https://www.openwall.com/john/)
+- [Wifite](https://github.com/derv82/wifite)
 
 ## Remote Login
 

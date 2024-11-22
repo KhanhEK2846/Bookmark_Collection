@@ -4,6 +4,7 @@
 
 - [A First Course in Artificial Intelligence](https://amzn.to/3JCsucQ)
 - [AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence](https://amzn.to/3JEjVyl)
+- [Artificial Intelligence and Big Data](https://www.techprofree.com/artificial-intelligence-and-big-data/)
 - [Artificial Intelligence and Machine Learning for Business: A No-Nonsense Guide to Data Driven Technologies](https://amzn.to/37LH58z)
 - [Artificial Intelligence Basics: A Non-Technical Introduction](https://amzn.to/3O9SHmu)
 - [Artificial Intelligence Engines: A Tutorial Introduction to the Mathematics of Deep Learning](https://amzn.to/3juCSch)
