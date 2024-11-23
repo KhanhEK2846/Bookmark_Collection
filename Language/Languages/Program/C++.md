@@ -2,6 +2,10 @@
 
 ---
 
+## Playlists
+
+- [BroCodez/C++ tutorial for beginners ⚡️](https://youtube.com/playlist?list=PLZPZq0r_RZOMHoXIcxze_lP97j2Ase2on&si=G1P2kjQAy_vH0rnT)
+
 ## Repositories
 
 - [AWESOME C++](https://github.com/fffaraz/awesome-cpp)

@@ -53,6 +53,7 @@
 - [Hack Design](https://hackdesign.org/)
 - [JavaPoint](https://www.javatpoint.com/)
 - [learn go](https://www.learn-golang.org/)
+- [Programiz](https://www.programiz.com/)
 - [W3Schools](https://www.w3schools.com/)
 
 ## Text Editor / IDE

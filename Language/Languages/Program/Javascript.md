@@ -2,6 +2,10 @@
 
 ---
 
+## Playlists
+
+- [BroCodez/JavaScript tutorial for beginners 🌐](https://youtube.com/playlist?list=PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv&si=QCidbUMpAWW2gRa-)
+
 ## Repositories
 
 - [30 DAYS OF JAVASCRIPT](https://github.com/Asabeneh/30-Days-Of-JavaScript)
