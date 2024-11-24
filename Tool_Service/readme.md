@@ -37,6 +37,10 @@
 
 - [CryptoJS](https://artjomb.github.io/cryptojs-extension/)
 
+## Format
+
+- [Unminify](https://unminify.com/)
+
 ## Manage Notes
 
 - [ClickUp™](https://clickup.com/)

@@ -1,4 +1,4 @@
-# Bookmark Collection
+# <center>Bookmark Collection</center>
 
 ---
 

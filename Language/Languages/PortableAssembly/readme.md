@@ -1,4 +1,4 @@
-# Portable Assembly Language [^note]
+<h1 title="Alternatively Assembler Language or Symbolic Machine Code"> Portable Assembly Language </h1>
 
 ---
 
@@ -8,5 +8,3 @@
 ---
 
 [Back](./../../readme.md)
-
-[^note]: alternatively assembler language or symbolic machine code

@@ -40,6 +40,10 @@
 - [Super design tools](https://superdesigner.co/tools)
 - [UI8.net](https://sapiens.ui8.net/6f3c3c2)
 
+## Images
+
+- [Compressor](https://compressor.io/)
+
 ## Other
 
 - [Bennett Feely](https://bennettfeely.com/)

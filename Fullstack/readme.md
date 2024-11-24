@@ -19,6 +19,10 @@
 - [Tool](./BackEnd/Tool.md)
 - [Video](./BackEnd/Video.md)
 
+## Cloud Computing
+
+- [Tools](./Cloud/Tools.md)
+
 ## Database
 
 - [Server](./Database/Server/readme.md)
@@ -54,6 +58,7 @@
 - [drawDB](https://drawdb.vercel.app/)
 - [Durable](https://durable.co/)
 - [Postman](https://www.postman.com/)
+- [RequestBin](https://pipedream.com/requestbin)
 - [WordPress](https://wordpress.com/fr/)
 
 ## Web Host Server
