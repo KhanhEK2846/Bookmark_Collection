@@ -2,6 +2,10 @@
 
 ---
 
+## Official
+
+- [C# language documentation](https://learn.microsoft.com/en-au/dotnet/csharp/)
+
 ## Playlists
 
 - [BroCodez/C# tutorial for beginners 🎮](https://youtube.com/playlist?list=PLZPZq0r_RZOPNy28FDBys3GVP2LiaIyP_&si=iAy_7TiIzlTlsaEj)
@@ -22,4 +26,4 @@
 
 ---
 
-[Back](./readme.md)
+[<kbd> Back </kbd>](./readme.md)

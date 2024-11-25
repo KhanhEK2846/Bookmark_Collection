@@ -9,4 +9,4 @@
 
 ---
 
-[Back](./../Rule.md)
+[<kbd> Back </kbd>](./../Rule.md)

@@ -37,7 +37,7 @@
 - [Portable Assembly](./Languages/PortableAssembly/readme.md)
 - [Program](./Languages/Program/readme.md)
 - [Purely Functional Program](./Languages/PurelyFunctionalProgram/readme.md)
-- [Server Script](./Languages/ServerScript/readme.md)
+- [Scientific](./Languages/Scientific/readme.md)
 - [Shell Program](./Languages/ShellProgram/readme.md)
 - [Style Sheet](./Languages/StyleSheet/readme.md)
 - [The Standard Markup](./Languages/TheStandardMarkup/readme.md)
@@ -67,4 +67,4 @@
 
 ---
 
-[Back](./../README.md)
+[<kbd> Back </kbd>](./../README.md)
