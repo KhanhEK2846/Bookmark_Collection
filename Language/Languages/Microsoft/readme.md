@@ -3,6 +3,7 @@
 ---
 
 - [VBA](./VBA.md)
+- [Visual Basic](./VB.md)
 
 ---
 

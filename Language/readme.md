@@ -21,9 +21,11 @@
 
 ## Languages
 
+- [Algorithmic](./Languages/Algorithmic/readme.md)
 - [Compiled Language](./Languages/Compiled/readme.md)
 - [Compiler Language With No Pronounceable Acronym](./Languages/Compiler/readme.md)
 - [Computer](./Languages/Computer/readme.md)
+- [Domain-specific](./Languages/DSL/readme.md)
 - [Esolangs](./Languages/Esolangs/readme.md)
 - [Expression Language](./Languages/ExpressionLanguage/readme.md)
 - [Fun Recreational Program](./Languages/FunRecreationalProgram/readme.md)
@@ -38,6 +40,7 @@
 - [Program](./Languages/Program/readme.md)
 - [Purely Functional Program](./Languages/PurelyFunctionalProgram/readme.md)
 - [Scientific](./Languages/Scientific/readme.md)
+- [Simulation](./Languages/Simulation/readme.md)
 - [Shell Program](./Languages/ShellProgram/readme.md)
 - [Style Sheet](./Languages/StyleSheet/readme.md)
 - [The Standard Markup](./Languages/TheStandardMarkup/readme.md)

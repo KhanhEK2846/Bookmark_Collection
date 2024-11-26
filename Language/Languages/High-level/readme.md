@@ -2,12 +2,15 @@
 
 ---
 
+- [Ada](./Ada.md)
+- [BASIC](./BASIC.md)
 - [Erlang](./Erlang.md)
 - [Java](./Java.md)
 - [IBM RPG](./RPG.md)
 - [Kotlin](./Kotlin.md)
 - [Lisp](./Lisp.md)
 - [Lua](./Lua.md)
+- [MUMPS](./MUMPS.md)
 - [Perl](./Perl.md)
 - [Python](./Python.md)
 - [Scala](./Scala.md)

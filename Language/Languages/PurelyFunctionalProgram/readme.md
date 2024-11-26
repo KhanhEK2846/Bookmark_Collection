@@ -3,6 +3,7 @@
 ---
 
 - [Haskell](./Haskell.md)
+- [Smalltalk](./Smalltalk.md)
 
 ---
 
