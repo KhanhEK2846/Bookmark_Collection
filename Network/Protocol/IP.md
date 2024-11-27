@@ -1,8 +1,6 @@
-# Documents
+# Internet Protocol
 
 ---
-
-# Deep Neural Networks
 
 > Coming Soon
 

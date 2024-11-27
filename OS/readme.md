@@ -2,46 +2,25 @@
 
 ---
 
-## Arch Linux
+# Operating System
 
-- [Official](https://archlinux.org/)
+- [FreeBSD](./FreeBSD/readme.md)
+- [Linux](./Linux/readme.md)
+- [RTOS](./RTOS/readme.md)
+- [Tails OS](./TailsOS/readme.md)
+- [Window](./Window/readme.md)
 
 ## Book
 
 - [Operating System Concepts](https://www.os-book.com/OS10/)
 
-## FreeBSD
+## Forum
 
-- [Official](https://www.freebsd.org/)
-
-## Kali
-
-- [Official](https://www.kali.org/)
-
-## Linux
-
-- [Official](https://www.linux.org/)
-
-## RTOS
-
-- [FreeRTOS](https://www.freertos.org/index.htmlhttps://www.freertos.org/index.html)
-- [RT-Thread RTOS Tutorials](https://embetronicx.com/rt-thread-rtos-tutorials/)
-
-## Tails OS
-
-- [Official](https://tails.net/)
-
-## Ubunutu
-
-- [Official](https://ubuntu.com/)
+- [Linux](https://www.linux.org/)
 
 ## Virtual Machine
 
 - [VirtualBox](https://www.virtualbox.org/wiki/Documentation)
-
-## Window
-
-- [Download](https://www.microsoft.com/en-us/software-download/)
 
 ---
 

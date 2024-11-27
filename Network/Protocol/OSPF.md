@@ -1,8 +1,6 @@
-# Documents
+# Open Shortest Path First
 
 ---
-
-# Deep Neural Networks
 
 > Coming Soon
 

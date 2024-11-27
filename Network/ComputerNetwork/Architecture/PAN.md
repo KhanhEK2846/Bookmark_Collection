@@ -2,7 +2,7 @@
 
 ---
 
-> COming Soon
+> Coming Soon
 
 ---
 

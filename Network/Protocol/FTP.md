@@ -1,8 +1,6 @@
-# Documents
+# File Transfer Protocol
 
 ---
-
-# Deep Neural Networks
 
 > Coming Soon
 

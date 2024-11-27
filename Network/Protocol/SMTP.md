@@ -1,8 +1,6 @@
-# Documents
+# Simple Mail Transfer Protocol
 
 ---
-
-# Deep Neural Networks
 
 > Coming Soon
 

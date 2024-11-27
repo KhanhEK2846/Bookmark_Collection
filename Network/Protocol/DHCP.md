@@ -1,8 +1,6 @@
-# Documents
+# Dynamic Host Configuration Protocol
 
 ---
-
-# Deep Neural Networks
 
 > Coming Soon
 
