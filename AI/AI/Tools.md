@@ -37,6 +37,7 @@
 - [ChatGPT](https://chat.openai.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Gemini](https://gemini.google.com/app)
+- [Ollama](https://ollama.com/)
 - [Perplexity](https://www.perplexity.ai/)
 - [Phind](https://www.phind.com/)
 - [POE](https://poe.com/ChatGPT)

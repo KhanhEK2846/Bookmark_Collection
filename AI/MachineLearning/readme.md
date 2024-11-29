@@ -41,13 +41,16 @@
 
 ## Library
 
-- [Analyze](./Library/Analyze.md)
-- [Auto](./Library/Auto.md)
-- [Computation](./Library/Computation.md)
+- [Automation](./Library/Auto.md)
+- [Data Analysis & Manipulation](./Library/DataAnalyze.md)
+- [Data Visualizations](./Library/DataVisualizations.md)
+- [Database Interaction](./Library/DataInteraction.md)
+- [NLP](./Library/NLP.md)
 - [Train Model](./Library/Train.md)
 - [Interfaces](./Library/Interfaces.md)
+- [Scientific Computing](./Library/ScientificComp.md)
 - [Other](./Library/Other.md)
-- [Visualizations](./Library/Visualizations.md)
+- [Web Scraping](./Library/WebScrap.md)
 
 ## Software
 

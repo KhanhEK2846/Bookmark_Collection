@@ -6,6 +6,10 @@
 
 - [Algorithms](./Algorithms/readme.md)
 
+## Automation Test
+
+- [Framework](./AutomationTest/Framework.md)
+
 ## Cheatsheets
 
 - [Cheatsheets](./Cheatsheets/readme.md)
