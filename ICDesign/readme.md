@@ -2,6 +2,12 @@
 
 ---
 
+## Finite-State Machine
+
+- [FSMD](./FSM/FSMD.md)
+- [Mealy](./FSM/Mealy.md)
+- [Moore](./FSM/Moore.md)
+
 ## Software
 
 - [Quartus® Prime](https://www.intel.vn/content/www/vn/vi/products/details/fpga/development-tools/quartus-prime/docs.html)
