@@ -5,6 +5,7 @@
 - [Ada](./Ada.md)
 - [BASIC](./BASIC.md)
 - [Erlang](./Erlang.md)
+- [Haxe](./Haxe.md)
 - [Java](./Java.md)
 - [IBM RPG](./RPG.md)
 - [Kotlin](./Kotlin.md)

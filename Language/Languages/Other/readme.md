@@ -2,6 +2,7 @@
 
 ---
 
+- [GDScript](./GDScript.md)
 - [TrumpScript](https://github.com/samshadwell/TrumpScript)
 
 ---

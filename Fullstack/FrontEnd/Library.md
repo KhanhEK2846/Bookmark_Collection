@@ -13,6 +13,7 @@
 ## Components
 
 - [Mantine](https://mantine.dev/)
+- [Polymer](https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview)
 - [PrimeReact](https://primereact.org/)
 
 ## Focused UI Library
@@ -31,7 +32,6 @@
 - [matcha.css](https://matcha.mizu.sh/)
 - [MUI](https://mui.com/)
 - [NextUI](https://nextui.org/)
-- [React](./Other/React.md)
 - [Sailboat UI](https://sailboatui.com/)
 - [Three.js](https://threejs.org/)
 - [Vite](https://vitejs.dev/guide/)
@@ -45,6 +45,12 @@
 - [AOS](https://michalsnik.github.io/aos/)
 - [ScrollReveal](https://scrollrevealjs.org/)
 - [ScrollTrigger](https://gsap.com/docs/v3/Plugins/ScrollTrigger/)
+
+## UI
+
+- [<div title=
+  "Compact React Alternative">Preact</div>](https://preactjs.com/guide/v10/getting-started)
+- [React](./Other/React.md)
 
 ---
 

@@ -15,6 +15,7 @@
 
 - [Library](./BackEnd/Library.md)
 - [Framework](./BackEnd/Framework.md)
+- [Platform](./BackEnd/Platform.md)
 - [Software](./BackEnd/Software.md)
 - [Tool](./BackEnd/Tool.md)
 - [Video](./BackEnd/Video.md)
@@ -34,6 +35,7 @@
 - [Documents](./FrontEnd/Documents.md)
 - [Library](./FrontEnd/Library.md)
 - [Framework](./FrontEnd/Framework/readme.md)
+- [Platform](./FrontEnd/Platform.md)
 - [Tool](./FrontEnd/Tool.md)
 - [Video](./FrontEnd/Video.md)
 

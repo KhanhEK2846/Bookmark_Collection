@@ -19,14 +19,26 @@
 
 ## Javascript or Typescript
 
+- [<div title=
+  "Feature rich application framework">AdonisJS</div>](https://docs.adonisjs.com/guides/preface/introduction)
 - [Bun](https://bun.sh/)
 - [Deno](https://deno.com/)
-- [Express.js](https://expressjs.com/)
-- [Next.js](https://nextjs.org/learn)
-- [Nuxt](https://nuxt.com/)
-- [Node.js](./JSorTS/NodeJS.md)
+- [<div title=
+  "Minimalist Node.js web framework">Express.js</div>](https://expressjs.com/)
+- [<div title=
+  "High performance web framework">Fastify</div>](https://fastify.dev/docs/latest/)
+- [<div title=
+  "Robust server framework">Hapi.js</div>](https://hapi.dev/)
+- [<div title=
+  "Modern Node.js framework">Koa.js</div>](https://koajs.com/)
+- [<div title=
+  "Scalable node.js framework">NestJS</div>](https://docs.nestjs.com/)
+- [<div title=
+  "Server side Javascript runtime">Node.js</div>](./JSorTS/NodeJS.md)
+- [<div title=
+  "MVC framework for web apps and APIs">Sails.js</div>](https://sailsjs.com/)
 - [SST](https://sst.dev/)
-- [SvelteKit](https://kit.svelte.dev/)
+- [SvelteKit](https://svelte.dev/docs/kit/introduction)
 
 ## PHP
 
