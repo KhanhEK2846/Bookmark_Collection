@@ -1,4 +1,4 @@
-# HTTP
+# Hypertext Transfer Protocol
 
 ---
 
