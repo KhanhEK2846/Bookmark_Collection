@@ -15,6 +15,7 @@
 ## Management
 
 - [LDAP](./Management/LDAP.md)
+- [SIP](./Management/SIP.md)
 - [SNMP](./Management/SNMP.md)
 
 ## Remote
@@ -27,13 +28,26 @@
 
 - [BGP](./Routing/BGP.md)
 
+## Security
+
+- [Kerberos](./Security/Kerberos.md)
+- [OAuth](./Security/OAuth.md)
+- [OpenID](./Security/OpenID.md)
+
+## Time
+
+- [NTP](./Time/NTP.md)
+
 ## Transfer
 
+- [CIFS](./Transfer/CIFS.md)
 - [FTP](./Transfer/FTP.md)
 - [HTTP](./Transfer/HTTP.md)
 - [HTTPs](./Transfer/HTTPs.md)
+- [Modbus](./Transfer/Modbus.md)
 - [MQTT](./Transfer/MQTT.md)
 - [SFTP](./Transfer/SFTP.md)
+- [SMB](./Transfer/SMB.md)
 
 ## Translate
 
