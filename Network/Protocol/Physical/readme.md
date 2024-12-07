@@ -2,8 +2,11 @@
 
 ---
 
+- [Ethernet](./Ethernet.md)
 - [LoRa](./LoRa.md)
+- [NFC](./NFC.md)
 - [WiFi](./WiFi.md)
+- [Zigbee](./Zigbee.md)
 
 ---
 

@@ -63,6 +63,7 @@
 ## Text Editor / IDE
 
 - [Neovim](./Editor/Neovim.md)
+- [NetBeans](https://netbeans.apache.org/front/main/index.html)
 - [The Eclipse Theia IDE](https://theia-ide.org/)
 - [VIM](./Editor/VIM.md)
 - [VS code](https://code.visualstudio.com/docs)
