@@ -3,7 +3,6 @@
 ---
 
 - [Official](https://outlook.live.com/)
-- [SMTP](./SMTP.md)
 
 ---
 

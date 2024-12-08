@@ -33,9 +33,10 @@
 - [3D](./Design/3D/readme.md)
 - [Pixel](./Design/Pixel/readme.md)
 
-## Encode
+## Encrypt & Decrypt
 
 - [CryptoJS](https://artjomb.github.io/cryptojs-extension/)
+- [BishopFox/unredacter](https://github.com/BishopFox/unredacter)
 
 ## Format
 

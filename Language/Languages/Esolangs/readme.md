@@ -9,6 +9,7 @@
 - [LOLCODE](./LOLCODE.md)
 - [Malbolge](./Malbolge.md)
 - [Ook!](./Ook!.md)
+- [TrumpScript](https://github.com/samshadwell/TrumpScript)
 - [Whitespace](./Whitespace.md)
 - [啊！](./啊！.md)
 

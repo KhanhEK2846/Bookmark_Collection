@@ -3,7 +3,6 @@
 ---
 
 - [Official](https://mail.google.com/)
-- [SMTP](./SMTP.md)
 
 ---
 

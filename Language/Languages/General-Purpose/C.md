@@ -2,6 +2,11 @@
 
 ---
 
+## Books
+
+- [free-educa/c-languages-books](https://github.com/free-educa/c-languages-books)
+- [MTJailed/C-Programming-Books](https://github.com/MTJailed/C-Programming-Books)
+
 ## Documents
 
 - [C language documentation](https://learn.microsoft.com/en-us/cpp/c-language)

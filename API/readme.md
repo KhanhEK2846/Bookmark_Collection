@@ -51,6 +51,7 @@
 ## Fake data
 
 - [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
+- [DummyJSON](https://dummyjson.com/)
 - [JSONPlaceholder](https://www.jsonplaceholder.org/)
 - [mockAPI](https://mockapi.io/)
 
@@ -82,6 +83,7 @@
 
 ## Map
 
+- [Goong](https://goong.io/)
 - [Mapbox](https://www.mapbox.com/)
 
 ## Movie

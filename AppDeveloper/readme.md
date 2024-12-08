@@ -8,6 +8,7 @@
 
 ## Game
 
+- [Book](./Game/Books.md)
 - [Collection](./Game/Collection.md)
 - [Framework](./Game/Framework.md)
 

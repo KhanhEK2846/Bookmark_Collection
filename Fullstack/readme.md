@@ -28,6 +28,11 @@
 
 - [Server](./Database/Server/readme.md)
 - [Serverless](./Database/Serverless.md)
+- [Tools](./Database/Tools.md)
+
+## Domain
+
+- [Namecheap](https://www.namecheap.com/)
 
 ## Front End
 
@@ -55,12 +60,15 @@
 
 - [RxJS](./Reactive/RxJS.md)
 
-## Tool
+## Tools
 
-- [drawDB](https://drawdb.vercel.app/)
+- [aaPanel](https://www.aapanel.com/)
+- [CAPTCHA](./Tools/CAPTCHA.md)
 - [Durable](https://durable.co/)
+- [JSON For You](https://json4u.com/)
 - [Postman](https://www.postman.com/)
 - [RequestBin](https://pipedream.com/requestbin)
+- [Web Developer Checklist](https://www.toptal.com/developers/webdevchecklist)
 - [WordPress](https://wordpress.com/fr/)
 
 ## Web Host Server
@@ -78,7 +86,7 @@
 - [Googie Host](https://googiehost.com/)
 - [InfinityFree](https://www.infinityfree.com/)
 - [Netlify](https://www.netlify.com/)
-- [NGINX](https://nginx.org/en/)
+- [NGINX](./WebHost/NGINX.md)
 - [Pxxl.space](https://pxxl.space/)
 - [Render](https://render.com/)
 - [Ultimatefreehost.in](https://www.ultimatefreehost.in/)

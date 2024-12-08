@@ -68,6 +68,10 @@
 - [Whirl](https://whirl.netlify.app/)
 - [Wordmark](https://wordmark.it/)
 
+## SVG
+
+- [SVG Viewer](https://www.svgviewer.dev/)
+
 ## UI/UX
 
 - [Cruip](https://cruip.com/)

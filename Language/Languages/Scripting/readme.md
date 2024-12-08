@@ -1,9 +1,10 @@
-# Other
+# Scripting Language
 
 ---
 
+- [AutoHotkey](./AutoHotkey.md)
+- [AutoIt](./AutoIt.md)
 - [GDScript](./GDScript.md)
-- [TrumpScript](https://github.com/samshadwell/TrumpScript)
 
 ---
 

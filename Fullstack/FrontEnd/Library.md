@@ -16,6 +16,10 @@
 - [Polymer](https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview)
 - [PrimeReact](https://primereact.org/)
 
+## Drag & Drop
+
+- [SortableJS](https://sortablejs.github.io/Sortable/)
+
 ## Focused UI Library
 
 - [htmx](https://htmx.org/)
@@ -23,6 +27,10 @@
 ## Fonts
 
 - [Browse Fonts](https://fonts.google.com/)
+
+## Mouse
+
+- [MagicMouse.js](https://magicmousejs.web.app/)
 
 ## Otther
 

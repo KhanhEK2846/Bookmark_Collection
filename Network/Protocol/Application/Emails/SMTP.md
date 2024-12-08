@@ -2,7 +2,10 @@
 
 ---
 
-> Coming Soon
+## Server
+
+- [Gmail](smtp.gmail.com)
+- [Outlook](smtp.office365.com)
 
 ---
 
