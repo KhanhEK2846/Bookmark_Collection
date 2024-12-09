@@ -2,15 +2,6 @@
 
 ---
 
-## API Design
-
-- [Cursor-based](./API_Design/Cursor-based.md)
-- [Hybrid](./API_Design/Hybrid.md)
-- [Keyset-based](./API_Design/Keyset-based.md)
-- [Offset-based](./API_Design/Offset-based.md)
-- [Page-based](./API_Design/Page-based.md)
-- [Time-based](./API_Design/Time-based.md)
-
 ## Back End
 
 - [Library](./BackEnd/Library.md)

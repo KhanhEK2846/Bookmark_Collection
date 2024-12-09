@@ -4,7 +4,7 @@
 
 ## Linear Scripting
 
-> Coming Soon
+- [Documents](./LinearScript/Documents.md)
 
 ## Module-Based Testing
 
