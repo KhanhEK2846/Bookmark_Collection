@@ -8,6 +8,10 @@
 - [Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)
 - [How to program with Bash: Syntax and tools](https://opensource.com/article/19/10/programming-bash-syntax-tools)
 
+## Tutorial
+
+- [Bash Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+
 ---
 
 [<kbd> Back </kbd>](./readme.md)

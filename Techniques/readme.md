@@ -30,7 +30,8 @@
 
 ## DevOps
 
-> Coming Soon
+- [Books](./DevOps/Books.md)
+- [Course](./DevOps/Course.md)
 
 ## Object-oriented programming
 

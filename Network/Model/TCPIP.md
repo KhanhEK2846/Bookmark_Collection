@@ -2,6 +2,10 @@
 
 ---
 
+## Course
+
+- [TCP/IP and Networking Fundamentals for IT Pros](https://www.pluralsight.com/courses/tcpip-networking-it-pros)
+
 ## Documents
 
 - [TCP/IP Model](https://www.geeksforgeeks.org/tcp-ip-model/)

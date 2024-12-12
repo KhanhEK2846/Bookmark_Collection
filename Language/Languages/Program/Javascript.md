@@ -2,6 +2,14 @@
 
 ---
 
+## Books
+
+- [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+
+## Course
+
+- [JavaScript Crash Course For Beginners](https://youtu.be/hdI2bqOjy3c?si=DuFI25KBhvbU04_p)
+
 ## Playlists
 
 - [BroCodez/JavaScript tutorial for beginners 🌐](https://youtube.com/playlist?list=PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv&si=QCidbUMpAWW2gRa-)
@@ -22,6 +30,7 @@
 ## Tutorial
 
 - [Javascript.Info](https://javascript.info/)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
 
 ---
 

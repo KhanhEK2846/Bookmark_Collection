@@ -2,9 +2,17 @@
 
 ---
 
+## Books
+
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
 ## Compiler
 
 - [Google Colab](https://colab.google/)
+
+## Course
+
+- [Python Crash Course](https://ehmatthes.github.io/pcc/)
 
 ## Official
 
