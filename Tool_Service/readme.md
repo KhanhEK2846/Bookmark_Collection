@@ -5,6 +5,7 @@
 ## All Tools
 
 - [10015 Tools](https://10015.io/)
+- [DevToys](https://devtoys.app/)
 - [IT - TOOLS](https://it-tools.tech/)
 - [NirSoft](https://www.nirsoft.net/utils/index.html)
 - [Toools.design](https://www.toools.design/)
@@ -17,14 +18,17 @@
 - [Telegram](./Communications/Telegram.md)
 - [WhatsApp](./Communications/WhatsApp.md)
 
+## Compare
+
+- [Beyond Compare](https://www.scootersoftware.com/)
+- [Diffchecker](https://www.diffchecker.com/)
+
 ## Deployments & Management
 
 - [Ansible](./Deployments/Ansible.md)
-- [Docker](./Deployments/Docker.md)
 - [Github](./Deployments/Github.md)
 - [GitLab](./Deployments/GitLab.md)
 - [Jenkins](./Deployments/Jenkins.md)
-- [Kubernetes](./Deployments/Kubernetes.md)
 - [Nix](./Deployments/Nix.md)
 
 ## Design

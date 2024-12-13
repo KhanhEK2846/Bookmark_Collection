@@ -57,6 +57,13 @@
 - [XSS](./HaTech/XSS.md)
 - [Zero-Day Exploits](./HaTech/Zero.md)
 
+## Server Management
+
+- [Cache Server](./ServerManage/CacheServer.md)
+- [Firewall](./ServerManage/Firewall.md)
+- [Load Balancing](./ServerManage/LoadBalance.md)
+- [Reverse Proxy](./ServerManage/RevProxy.md)
+
 ---
 
 [<kbd> Back </kbd>](./../readme.md)
