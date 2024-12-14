@@ -17,6 +17,7 @@
 
 ## Automation Test
 
+- [Tutorials](./AutomationTest/Tutorials.md)
 - [Framework](./AutomationTest/Framework.md)
 
 ## Cheatsheets
@@ -34,10 +35,10 @@
 - [Orchestration Container](./Containers/Orchestration/readme.md)
 - [Tools](./Containers/Tools/readme.md)
 
-## DevOps
+## Monitoring & Observability
 
-- [Books](./DevOps/Books.md)
-- [Course](./DevOps/Course.md)
+- [Documents](./MoniObser/Documents.md)
+- [Tools](./MoniObser/Tools/readme.md)
 
 ## Object-oriented programming
 
@@ -52,6 +53,9 @@
 ## Software Development Life Cycle
 
 - [Agile](./SDLC/Agile.md)
+- [Big Bang](./SDLC/BigBang.md)
+- [CI/CD](./SDLC/CI_CD.md)
+- [DevOps](./SDLC/DevOps.md)
 - [Spiral Design Flow](./SDLC/SpiralDesignFlow.md)
 - [V-Model](./SDLC/VModel.md)
 - [Waterfall](./SDLC/Waterfall.md)

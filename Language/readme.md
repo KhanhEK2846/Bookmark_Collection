@@ -32,6 +32,7 @@
 - [General-Purpose](./Languages/General-Purpose/readme.md)
 - [Hardware Description](./Languages/HardwareDescription/readme.md)
 - [High-level](./Languages/High-level/readme.md)
+- [Human-Readable](./Languages/Human-Readable/readme.md)
 - [Low-level](./Languages/Low-level/readme.md)
 - [Microsoft's Event-driven](./Languages/Microsoft/readme.md)
 - [MIPS](./Languages/MIPS/readme.md)

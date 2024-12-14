@@ -25,7 +25,6 @@
 
 ## Deployments & Management
 
-- [Ansible](./Deployments/Ansible.md)
 - [Github](./Deployments/Github.md)
 - [GitLab](./Deployments/GitLab.md)
 - [Jenkins](./Deployments/Jenkins.md)

@@ -2,6 +2,7 @@
 
 ---
 
+- [Amazon Web Services](./AWS.md)
 - [Microsoft Azure](./Azure.md)
 
 ---
