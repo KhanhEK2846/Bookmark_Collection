@@ -14,7 +14,6 @@
 - [ATG](https://docs.oracle.com/cd/E24152_01/Platform.10-1/ATGInstallGuide/html/s0101introduction01.html)
 - [Dropwizard](https://www.dropwizard.io/en/stable/)
 - [Play](https://www.playframework.com/)
-- [Hibernate](https://hibernate.org/)
 - [Spring](https://spring.io/)
 
 ## Javascript or Typescript

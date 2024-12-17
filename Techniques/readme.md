@@ -17,8 +17,9 @@
 
 ## Automation Test
 
-- [Tutorials](./AutomationTest/Tutorials.md)
+- [Documents](./AutomationTest/Documents.md)
 - [Framework](./AutomationTest/Framework.md)
+- [Tutorials](./AutomationTest/Tutorials.md)
 
 ## Cheatsheets
 
@@ -35,14 +36,23 @@
 - [Orchestration Container](./Containers/Orchestration/readme.md)
 - [Tools](./Containers/Tools/readme.md)
 
+## Logger
+
+- [Documents](./Logger/Documents.md)
+- [Framework](./Logger/Framework.md)
+
 ## Monitoring & Observability
 
 - [Documents](./MoniObser/Documents.md)
 - [Tools](./MoniObser/Tools/readme.md)
 
-## Object-oriented programming
+## Object-oriented programming (OOP)
 
-- [OOP](./OOP/readme.md)
+- [Documents](./OOP/Documents.md)
+
+## Object-Relational Mapping (ORM)
+
+- [Framework](ORM/Framework.md)
 
 ## Processing
 

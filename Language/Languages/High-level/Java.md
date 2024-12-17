@@ -2,6 +2,12 @@
 
 ---
 
+## Graphical User Interface (GUI)
+
+- [JavaFX](https://openjfx.io/)
+- [Swing](https://docs.oracle.com/javase/8/docs/api///?javax/swing/package-summary.html)
+- [SWT](https://www.eclipse.org/swt/)
+
 ## Official
 
 - [Java](https://dev.java/)
@@ -26,6 +32,14 @@
 - [SPRING BOOT EXAMPLE](https://github.com/ityouknow/spring-boot-examples)
 - [TO BE TOP JAVAER](https://github.com/hollischuang/toBeTopJavaer)
 - [THEALGORITHMS - JAVA](https://github.com/TheAlgorithms/Java)
+
+## Security
+
+- [Apache Shiro™](https://shiro.apache.org/)
+- [HDIV](https://github.com/hdiv/hdiv)
+- [Java Authentication and Authorization Service (JAAS)](https://docs.oracle.com/javase/8/docs/technotes/guides/security/jaas/JAASRefGuide.html)
+- [OACC](https://github.com/acciente/oacc-core)
+- [Spring Security](https://docs.spring.io/spring-security/reference/index.html)
 
 ---
 
