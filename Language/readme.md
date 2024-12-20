@@ -63,6 +63,9 @@
 
 ## Text Editor / IDE
 
+- [Apache NetBeans](https://netbeans.apache.org/front/main/index.html)
+- [Eclipse IDE](https://eclipseide.org/)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [Neovim](./Editor/Neovim.md)
 - [NetBeans](https://netbeans.apache.org/front/main/index.html)
 - [The Eclipse Theia IDE](https://theia-ide.org/)
