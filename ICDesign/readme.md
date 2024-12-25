@@ -10,6 +10,7 @@
 
 ## Peripherals
 
+- [Flash](./Peripherals/Flash.md)
 - [RAM](./Peripherals/RAM.md)
 - [ROM](./Peripherals/ROM.md)
 

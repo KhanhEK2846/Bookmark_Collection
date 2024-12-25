@@ -6,6 +6,11 @@
 
 - [AUTOSAR](./Architecture/AUTOSAR.md)
 
+## Documents
+
+- [Bootloader](./Documents/Bootloader.md)
+- [Firmware](./Documents/Firmware.md)
+
 ## Hardware
 
 - [Datasheet](./Hardware/Datasheet.md)
@@ -45,6 +50,7 @@
 
 - [CEEC Club](https://fce.uit.edu.vn/category/clb-ceec/)
 - [Last Minute Engineers](https://lastminuteengineers.com/)
+- [Lập trình - Điện tử](https://www.laptrinhdientu.com/)
 - [peppe8o](https://peppe8o.com/)
 - [Random Nerd Tutorials](https://randomnerdtutorials.com/)
 
