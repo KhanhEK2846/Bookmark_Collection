@@ -64,10 +64,12 @@
 ## Text Editor / IDE
 
 - [Apache NetBeans](https://netbeans.apache.org/front/main/index.html)
+- [AWS Cloud9](https://aws.amazon.com/cloud9/)
 - [Eclipse IDE](https://eclipseide.org/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [Neovim](./Editor/Neovim.md)
 - [NetBeans](https://netbeans.apache.org/front/main/index.html)
+- [Sublime Text](https://www.sublimetext.com/)
 - [The Eclipse Theia IDE](https://theia-ide.org/)
 - [VIM](./Editor/VIM.md)
 - [VS code](https://code.visualstudio.com/docs)

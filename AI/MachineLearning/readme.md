@@ -2,6 +2,13 @@
 
 ---
 
+## Algorithms
+
+- [Artificial Neural Networks](./Algo/ANN/readme.md)
+- [Classical Learning](./Algo/Classical/readme.md)
+- [Ensemble Learning](./Algo/Ensemble/readme.md)
+- [Reinforcement Learning](./Algo/Reinforcement/readme.md)
+
 ## Book
 
 - [ml-yearning-vi](https://github.com/mlbvn/ml-yearning-vi)
@@ -25,14 +32,6 @@
 ## Data Science
 
 - [Videos](./DataScience/Videos.md)
-
-## Deep Learning
-
-- [Documents](./DL/Documents.md)
-
-## Documents
-
-- [Models](./Documents/Models.md)
 
 ## Label
 

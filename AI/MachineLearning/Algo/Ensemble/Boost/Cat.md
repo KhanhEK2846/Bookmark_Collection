@@ -1,8 +1,6 @@
-# Documents
+# CatBoost
 
 ---
-
-## Deep Neural Networks
 
 > Coming Soon
 

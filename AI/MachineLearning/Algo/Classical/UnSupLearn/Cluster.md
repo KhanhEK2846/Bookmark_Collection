@@ -7,6 +7,10 @@
 - [Documents](./DBSCAN/Documents.md)
 - [Tutorials](./DBSCAN/Tutorials.md)
 
+## Fuzzy C Means
+
+> Coming Soon
+
 ## Hierarchical Clustering
 
 - [Documents](./Hierarchical/Documents.md)
@@ -28,6 +32,10 @@ Bad:
 - [Documents](./K-Means/Documents.md)
 - [Tutorials](./K-Means/Tutorials.md)
 
+## Mean-Shift Clustering
+
+> Coming Soon
+
 ---
 
-[<kbd> Back </kbd>](./../Models.md)
+[<kbd> Back </kbd>](./../readme.md)

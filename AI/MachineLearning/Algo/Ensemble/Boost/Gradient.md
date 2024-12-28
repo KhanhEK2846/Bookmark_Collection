@@ -6,4 +6,4 @@
 
 ---
 
-[<kbd> Back </kbd>](./../Both.md)
+[<kbd> Back </kbd>](./../readme.md)
